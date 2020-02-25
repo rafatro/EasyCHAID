@@ -1,12 +1,350 @@
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+	<title>Easy CHAID</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Easy CHAID,EasyCHAID,CHAID,Chi-squared Automatic Interaction Detection,Decision Tree,Classification Tree,Data Science,Web app,Web Application">
+	<meta name="description" content="Free software for running CHAID algorithm">
+	<meta name="viewport" content="width=device-width, initial-scale=.5" />
+
+	<link rel="shortcut icon" type="image/png" href="favicon.png" />
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Mono' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="gamma_fun.js"></script>
+	<script src="chisq.js"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script src="CalculateCHAID.js"></script>
+	<!-- Google Analytics -->
+	<script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-84915137-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$.ajax({
+				url: "CHAID_Example2.txt"
+			}).done(function(data) {
+				$("#Data").val(data);
+			});
+		});
+
+		function toggle_visibility(id) {
+			var e = document.getElementById(id);
+			if (e.style.display == 'block') {
+				document.getElementById(id + '_link').style.display = 'block';
+				e.style.display = 'none';
+			} else {
+				e.style.display = 'block';
+				document.getElementById(id + '_link').style.display = 'none';
+			}
+		}
+
+		var Step = 1;
+
+		function MoveStep(direction) {
+			document.getElementById("data-step" + Step).style.display = "none";
+			if (direction == "previous") Step--;
+			else if (direction == "next") Step++;
+			if (Step == 1) document.getElementById("Previous-btn").style.display = "none";
+			if (Step == 2) {
+				document.getElementById("Previous-btn").style.display = "block";
+				document.getElementById("Next-btn").style.display = "block";
+			}
+			if (Step == 3) document.getElementById("Next-btn").style.display = "none";
+			document.getElementById("data-step" + Step).style.display = "block";
+			CalculateCHAID(Step, direction); // from CalculateCHAID.js
+		}
+
+		function MarkAllOrdered() {
+			$(".cat_order_ck").prop('checked', $('#all_cat_order').prop("checked"));
+		}
+
+		function Cat_order_ck() {
+			$("#all_cat_order").prop('checked', false);
+		}
+	</script>
+
+	<style>
+		html {
+			font-size: 16px;
+		}
+		
+		body {
+			background-color: #FFF;
+			font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+			color: #353535;
+		}
+		
+		table {
+			border-collapse: collapse;
+			border-color: #353535;
+		}
+		
+		td {
+			border-color: #CCC;
+		}
+		
+		.main_table {
+			min-width:400px;
+			max-width:900px;
+		}
+		
+		.steps-content {
+			border-style: solid;
+			border-width: 1px;
+			border-color: #ccc;
+			padding: 6px;
+		}
+		
+		.divstep {}
+		
+		.btn {
+			border: 0;
+			padding: 6px 18px;
+			text-align: center;
+			text-decoration: none;
+			font-weight: bold;
+			display: inline-block;
+			font-size: 110%;
+			margin: 4px 2px;
+			-webkit-transition-duration: 0.3s;
+			/* Safari */
+			transition-duration: 0.3s;
+			cursor: pointer;
+			-webkit-border-radius: 4;
+			-moz-border-radius: 4;
+			border-radius: 4px;
+			color: #353535;
+			background: #c2c2c2;
+			background-image: -webkit-linear-gradient(top, #f0f0f0, #c2c2c2);
+			background-image: -moz-linear-gradient(top, #f0f0f0, #c2c2c2);
+			background-image: -ms-linear-gradient(top, #f0f0f0, #c2c2c2);
+			background-image: -o-linear-gradient(top, #f0f0f0, #c2c2c2);
+			background-image: linear-gradient(to bottom, #f0f0f0, #c2c2c2);
+		}
+		
+		.btn:hover {
+			background: #c2c2c2;
+		}
+		
+		.tree {
+			width: 879px;
+			overflow-x: scroll;
+		}
+		
+		.tree table {
+			border-collapse: separate;
+			max-width: 879px;
+		}
+		
+		.nodeClass {
+			/* used for the tree's boxes, set by javascript */
+			font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+			vertical-align: top;
+			background-color: #EEF;
+			border-style: solid;
+			border-width: 1px;
+			border-color: #38d;
+		}
+		
+		.nodeClassSel {
+			/* used for the tree's boxes, set by javascript */
+			font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+			vertical-align: top;
+			background-color: #FF9;
+			border-style: solid;
+			border-width: 1px;
+			border-color: #CC3;
+		}
+		
+		h1 {
+			font-size: 220%;
+			line-height: 47px;
+			font-weight: bold;
+			margin-top: 0px;
+			margin-bottom: 0px;
+		}
+		
+		h2 {
+			font-size: 110%;
+			font-weight: bold;
+			margin-top: 0px;
+			margin-bottom: 0px;
+		}
+		
+		h3 {
+			font-weight: bold;
+			margin-top: 5px;
+			margin-bottom: 9px;
+		}
+	</style>
 
 </head>
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
-WWW
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td bgcolor="#32546B">
+				<table class="main_table" border="0" align="center" cellpadding="4" cellspacing="0">
+					<tr bgcolor="#32546B">
+						<td nowrap="nowrap" style="color: #FFF;"><span style="font-weight: bold; font-size: 250%;">Easy CHAID</span><br>
+							<span style="font-size: 125%;">Web application for creating classification trees using CHAID algorithm<br>Hosted at GitHub! Yeah!</span></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td height="2"></td>
+		</tr>
+		<tr>
+			<td height="3" bgcolor="#32546B"></td>
+		</tr>
+		<tr>
+			<td height="40"></td>
+		</tr>
+		<tr>
+			<td>
+				<table class="main_table" border="0" align="center" cellpadding="0" cellspacing="0">
+					<tr>
+						<td style="text-align: center; font-size: 140%;">
+							<b>Easy CHAID</b> is a free software that applies the <strong>Ch</strong>i-squared <strong>A</strong>utomatic <strong>I</strong>nteraction <strong>D</strong>etection algorithm to classify your data into groups.</td>
+					</tr>
+					<tr>
+						<td height="40"></td>
+					</tr>
+					<tr>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="6">
+								<tr>
+									<td><button id="Previous-btn" onclick="MoveStep('previous')" style="display:none;" class="btn">&lt; Previous</button></td>
+									<td align="right"><button id="Next-btn" onclick="MoveStep('next')" class="btn">Next &gt;</button></td>
+								</tr>
+							</table>
+							<div class="steps-content">
+								<div id="data-step1" class="divstep">
+									<h3>Input Data</h3>
+									<div style="text-align:center; max-width:879px;">
+										<textarea id="Data" name="Data" cols="100" rows="13" wrap="off" style="width:100%; color:#353535; font-family:'Roboto Mono', 'Courier New', Courier, monospace; font-size:80%;"></textarea>
+									</div><br />
+									<table width="100%" border="0" align="center" cellpadding="2" cellspacing="2">
+										<tr>
+											<td>Values separated by <select id="separator" name="separator" size="1"><option selected="selected">[TAB]</option><option>;</option><option>,</option></select></td>
+											<td><input id="headings" name="headings" type="checkbox" checked="checked" />1st row contains column headings</td>
+										</tr>
+										<tr>
+											<td>Dependent variable in <select id="dep_var" size="1"><option>first</option><option selected="selected">last</option></select> column</td>
+											<td></td>
+										</tr>
+									</table>
+								</div>
+								<div id="data-step2" class="divstep" style="display:none;">
+									<h3>Options</h3>
+									<div id="step2_content"> </div>
+								</div>
+								<div id="data-step3" class="divstep" style="display:none;">
+									<h3>Result</h3>
+									<div id="step3_content_A" class="tree" style="margin:3px auto;"> </div><br>
+									<button onclick=Tree_in_new_window() class="btn">See tree in new window</button><br><br>
+									<div id='SeeTableFormat_link'>
+										<button onclick="toggle_visibility('SeeTableFormat');" class="btn">See tree in table format</button><br>
+									</div>
+									<div id="SeeTableFormat" style="display:none;">
+										<button onclick="toggle_visibility('SeeTableFormat');" class="btn">Hide tree in table format</button>
+										<div id="step3_content_B"> </div>
+									</div><br>
+									<div id='SeeSteps_link'>
+										<button onclick="toggle_visibility('SeeSteps');" class="btn">See CHAID Step-by-step (for nerds)</button>
+									</div>
+									<div id="SeeSteps" style="display:none;">
+										<button onclick="toggle_visibility('SeeSteps');" class="btn">Hide CHAID Step-by-step</button><br>
+										<div id="step3_content_C" style="font-size:70%;"> </div>
+									</div><br>
+								</div>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td height="40"></td>
+					</tr>
+					<tr>
+						<td>
+							<h1>About CHAID algorithm</h1></td>
+					</tr>
+					<tr>
+						<td height="1" bgcolor="#6699CC"></td>
+					</tr>
+					<tr>
+						<td height="5"></td>
+					</tr>
+					<tr>
+						<td>
+							<div style="float: right; margin:5px"><img src="hierarchy.gif" width="80" height="54" /></div>
+								<b>CHAID</b> is an algorithm for constructing classification trees that splits the observations on a data base into groups that better discriminate a given dependent variable.<br /><br /> Every node is split according to the variable that better
+							discriminates the observations on that node. The new nodes are split again and again until reaching the minimum node size (user-defined) or the remaining variables don't differentiate enough for a new split.<br /><br /> Independent variables must
+							be categorical like gender 'male' and 'female' or like marital status 'married', 'single', 'divorced' and 'widow(er)'. Numerical continuous variables like age, height, weight, or income must be transformed into categories before using them in CHAID.
+							<br /><br /> Whereas original CHAID algorithm accepts numerical continuous variable as the dependent variable, this implementation of CHAID is not yet ready for that. So, for now, dependent variable must also be categorical.<br /><br /> This implementation
+							was thoroughly tested against IBM SPSS and reaches exactly the same results.<br /><br /> More at <a href="https://en.wikipedia.org/wiki/CHAID" target="_blank">Wikipedia</a>.<br /> See <a href="http://www.ibm.com/support/knowledgecenter/SSLVMB_21.0.0/com.ibm.spss.statistics.help/alg_tree-chaid.htm"
+								target="_blank">Details of the IBM SPSS' implementation</a>.<br /> Main reference: <a href="http://www4.stat.ncsu.edu/~dickey/Analytics/Datamine/Reference%20Papers/kass80.pdf" target="_blank">Kass, G. 1980. An exploratory technique for investigating large quantities of categorical data. <i>Applied Statistics</i>, 29:2, 119-127</a>.
+						</td>
+					</tr>
+					<tr>
+						<td height="25"></td>
+					</tr>
+					<tr>
+						<td>
+							<h1>Free</h1></td>
+					</tr>
+					<tr>
+						<td height="1" bgcolor="#6699CC"></td>
+					</tr>
+					<tr>
+						<td height="5"></td>
+					</tr>
+					<tr>
+						<td>
+							Yes. That's right. There is <b>no</b> licensing, <b>no</b> membership, <b>no</b> fee, nothing. But your word of gratitude or compliment would motivate the programmer to keep the site online and keep improving it.
+						</td>
+					</tr>
+					<tr>
+						<td height="25"></td>
+					</tr>
+					<tr>
+						<td>
+							<h1>Author</h1></td>
+					</tr>
+					<tr>
+						<td height="1" bgcolor="#6699CC"></td>
+					</tr>
+					<tr>
+						<td height="5"></td>
+					</tr>
+					<tr>
+						<td>
+							<b>Rafael R. Troiani</b> is an enthusiast for programming, data science, web design and other nerdy things. Msc. in Economics at Insper,
+							Bachelor of Business Administration at USP. Works at a commercial bank, develops software and web pages on his spare time.
+						</td>
+					</tr>
+					<tr>
+						<td height="50"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
 
 </body>
 
