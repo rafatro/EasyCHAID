@@ -1,0 +1,1501 @@
+MaritalStatus	AgeR	Degree	Gender	ReligiousP	OwnGun	CapitalPunishment
+Never Married	18-25	(1)High School	Male	None	No	Oppose
+Divorced	46-55	(0) < High School	Male	None	No	Favor
+Married	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Married	46-55	(4)Graduate	Male	None	Yes	Favor
+Never Married	26-35	(2)Jr. College	Female	None	No	Favor
+Never Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Never Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Widowed	66-75	(0) < High School	Male	Protestant	Yes	Favor
+Married	66-75	(1)High School	Male	Protestant	Yes	Oppose
+Divorced	56-65	(3)Bachelor	Male	Jewish	Yes	Favor
+Widowed	76-82	(1)High School	Male	None	No	Favor
+Never Married	18-25	(3)Bachelor	Male	Protestant	No	Oppose
+Married	26-35	(4)Graduate	Female	Christian	Refused	Favor
+Married	46-55	(1)High School	Male	None	Yes	Favor
+Divorced	46-55	(3)Bachelor	Male	Catholic	Yes	Favor
+Divorced	46-55	(1)High School	Male	None	No	Oppose
+Never Married	18-25	(1)High School	Male	Catholic	No	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Divorced	26-35	(0) < High School	Female	None	No	Oppose
+Married	56-65	(1)High School	Male	Christian	No	Favor
+Married	36-45	(0) < High School	Female	Christian	No	Favor
+Married	66-75	(1)High School	Female	Catholic	No	Oppose
+Never Married	26-35	(3)Bachelor	Male	Protestant	Yes	Favor
+Divorced	36-45	(1)High School	Female	Protestant	Yes	Favor
+Widowed	66-75	(1)High School	Female	Catholic	Yes	Oppose
+Married	46-55	(0) < High School	Female	Protestant	No	Favor
+Never Married	56-65	(1)High School	Male	Catholic	Yes	Favor
+Never Married	18-25	(1)High School	Male	None	No	Favor
+Never Married	26-35	(1)High School	Male	Catholic	No	Oppose
+Divorced	46-55	(1)High School	Female	None	No	Favor
+Married	26-35	(3)Bachelor	Female	Christian	No	Oppose
+Widowed	36-45	(2)Jr. College	Male	None	No	Oppose
+Married	26-35	(1)High School	Male	Protestant	No	Favor
+Never Married	46-55	(2)Jr. College	Male	Protestant	No	Oppose
+Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(4)Graduate	Male	Hinduism	No	Oppose
+Never Married	36-45	(3)Bachelor	Male	Protestant	No	Favor
+Never Married	18-25	(1)High School	Male	None	No	Oppose
+Divorced	82 +	(0) < High School	Male	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	82 +	(1)High School	Male	Protestant	No	Oppose
+Married	26-35	(0) < High School	Male	None	No	Favor
+Married	56-65	(1)High School	Male	None	Yes	Favor
+Married	26-35	(2)Jr. College	Male	None	No	Favor
+Never Married	26-35	(3)Bachelor	Male	Catholic	Yes	Oppose
+Never Married	18-25	(4)Graduate	Male	Protestant	No	Oppose
+Never Married	26-35	(0) < High School	Male	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Male	Catholic	No	Oppose
+Widowed	76-82	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	46-55	(4)Graduate	Male	Catholic	No	Favor
+Never Married	18-25	(4)Graduate	Female	None	Yes	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	No	Oppose
+Divorced	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	46-55	(2)Jr. College	Female	Protestant	No	Favor
+Divorced	26-35	(4)Graduate	Female	None	No	Oppose
+Never Married	46-55	(4)Graduate	Female	None	No	Oppose
+Married	26-35	(0) < High School	Male	Catholic	No	Oppose
+Never Married	26-35	(3)Bachelor	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Female	Christian	No	Oppose
+Married	26-35	(3)Bachelor	Male	None	No	Favor
+Divorced	46-55	(0) < High School	Male	Protestant	No	Favor
+Married	56-65	(4)Graduate	Male	Protestant	Yes	Oppose
+Divorced	66-75	(0) < High School	Female	Protestant	No	Oppose
+Married	66-75	(3)Bachelor	Male	None	No	Favor
+Never Married	26-35	(3)Bachelor	Female	Protestant	No	Favor
+Divorced	56-65	(1)High School	Male	Catholic	Yes	Favor
+Married	66-75	(3)Bachelor	Female	Protestant	Yes	Favor
+Divorced	46-55	(0) < High School	Female	Protestant	No	Favor
+Never Married	56-65	(4)Graduate	Male	Protestant	No	Oppose
+Married	36-45	(3)Bachelor	Female	None	No	Favor
+Never Married	56-65	(0) < High School	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Female	Catholic	No	Favor
+Never Married	46-55	(0) < High School	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	None	No	Favor
+Divorced	26-35	(3)Bachelor	Female	Catholic	Refused	Favor
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Female	Catholic	No	Oppose
+Divorced	66-75	(1)High School	Male	Other	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(4)Graduate	Female	Catholic	Yes	Oppose
+Divorced	36-45	(3)Bachelor	Male	None	No	Oppose
+Never Married	26-35	(1)High School	Female	Catholic	No	Oppose
+Married	46-55	(4)Graduate	Female	Protestant	No	Favor
+Married	66-75	(0) < High School	Female	Protestant	No	Oppose
+Divorced	36-45	(1)High School	Male	Protestant	Refused	Favor
+Never Married	56-65	(0) < High School	Female	None	No	Favor
+Married	18-25	(0) < High School	Male	Catholic	No	Oppose
+Never Married	26-35	(1)High School	Male	None	Refused	Favor
+Never Married	18-25	(0) < High School	Female	Christian	No	Oppose
+Married	46-55	(1)High School	Female	Catholic	Yes	Oppose
+Married	56-65	(3)Bachelor	Male	Protestant	No	Favor
+Married	46-55	(1)High School	Female	None	Yes	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Catholic	Yes	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Female	Other	No	Favor
+Divorced	56-65	(1)High School	Female	Protestant	No	Oppose
+Never Married	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	56-65	(4)Graduate	Male	None	No	Oppose
+Never Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	76-82	(1)High School	Female	Protestant	Yes	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	No	Oppose
+Divorced	66-75	(1)High School	Female	None	Yes	Favor
+Never Married	26-35	(1)High School	Male	Protestant	No	Oppose
+Married	26-35	(1)High School	Female	None	No	Favor
+Divorced	36-45	(3)Bachelor	Male	Protestant	No	Favor
+Never Married	36-45	(0) < High School	Female	Catholic	No	Favor
+Married	26-35	(0) < High School	Male	Catholic	No	Favor
+Married	26-35	(3)Bachelor	Female	Catholic	Yes	Favor
+Divorced	26-35	(1)High School	Male	Catholic	Yes	Favor
+Married	46-55	(1)High School	Male	Islam	No	Oppose
+Married	66-75	(4)Graduate	Female	Catholic	Yes	Oppose
+Married	46-55	(4)Graduate	Female	Protestant	Yes	Favor
+Never Married	56-65	(3)Bachelor	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Male	None	No	Favor
+Married	56-65	(0) < High School	Female	Catholic	No	Oppose
+Married	26-35	(3)Bachelor	Female	None	No	Favor
+Never Married	18-25	(1)High School	Female	DK	No	Oppose
+Married	36-45	(1)High School	Male	None	Yes	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(4)Graduate	Female	None	No	Oppose
+Divorced	46-55	(0) < High School	Male	Catholic	Yes	Oppose
+Never Married	36-45	(3)Bachelor	Female	Christian	Yes	Oppose
+Never Married	26-35	(1)High School	Female	None	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Male	None	Yes	Oppose
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(4)Graduate	Male	Protestant	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(3)Bachelor	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(3)Bachelor	Male	None	Yes	Favor
+Divorced	66-75	(1)High School	Female	Protestant	No	Favor
+Divorced	36-45	(0) < High School	Male	Protestant	No	Oppose
+Divorced	36-45	(0) < High School	Female	Christian	No	Oppose
+Married	76-82	(1)High School	Female	Protestant	Yes	Oppose
+Married	26-35	(3)Bachelor	Female	Catholic	No	Favor
+Divorced	56-65	(3)Bachelor	Male	Jewish	No	Favor
+Married	76-82	(1)High School	Male	Protestant	Yes	Favor
+Never Married	56-65	(1)High School	Female	None	No	Oppose
+Never Married	56-65	(3)Bachelor	Male	None	No	Favor
+Married	46-55	(3)Bachelor	Female	Buddhism	No	Oppose
+Never Married	18-25	(2)Jr. College	Female	Catholic	No	Oppose
+Widowed	82 +	(1)High School	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	Catholic	Yes	Favor
+Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Married	82 +	(3)Bachelor	Female	None	Yes	Oppose
+Married	36-45	(4)Graduate	Male	None	No	Oppose
+Married	66-75	(1)High School	Male	Catholic	No	Oppose
+Never Married	26-35	(1)High School	Male	Protestant	Yes	Favor
+Married	26-35	(4)Graduate	Male	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	None	No	Favor
+Separated	26-35	(3)Bachelor	Female	None	No	Oppose
+Never Married	26-35	(1)High School	Female	Catholic	No	Favor
+Married	26-35	(0) < High School	Male	Catholic	No	Oppose
+Divorced	36-45	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	76-82	(4)Graduate	Female	Protestant	No	Favor
+Never Married	46-55	(4)Graduate	Female	Protestant	Yes	Oppose
+Married	56-65	(4)Graduate	Male	Catholic	Yes	Favor
+Divorced	36-45	(1)High School	Female	Protestant	Yes	Favor
+Never Married	46-55	(0) < High School	Male	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	Catholic	Yes	Favor
+Married	46-55	(3)Bachelor	Male	Catholic	No	Favor
+Married	26-35	(3)Bachelor	Male	Catholic	No	Oppose
+Married	66-75	(3)Bachelor	Male	Other	Refused	Favor
+Widowed	76-82	(3)Bachelor	Female	None	No	Favor
+Divorced	66-75	(0) < High School	Female	Protestant	No	Oppose
+Divorced	56-65	(3)Bachelor	Female	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Male	Protestant	Yes	Oppose
+Never Married	36-45	(1)High School	Female	Orthodox-Christian	No	Favor
+Married	46-55	(3)Bachelor	Male	None	Yes	Favor
+Never Married	18-25	(3)Bachelor	Male	None	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(3)Bachelor	Female	Protestant	Yes	Favor
+Divorced	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(0) < High School	Female	None	No	Oppose
+Never Married	36-45	(1)High School	Female	Protestant	Yes	Oppose
+Married	36-45	(1)High School	Male	Protestant	Refused	Favor
+Never Married	26-35	(4)Graduate	Male	Catholic	No	Oppose
+Never Married	26-35	(4)Graduate	Female	Protestant	Yes	Oppose
+Widowed	82 +	(2)Jr. College	Female	Catholic	Yes	Favor
+Married	82 +	(3)Bachelor	Female	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Female	Catholic	Yes	Favor
+Married	36-45	(4)Graduate	Male	Protestant	Yes	Favor
+Married	66-75	(1)High School	Female	Catholic	No	Favor
+Married	36-45	(1)High School	Female	Catholic	No	Oppose
+Widowed	56-65	(2)Jr. College	Female	Protestant	Refused	Favor
+Married	36-45	(1)High School	Male	Catholic	No	Favor
+Married	26-35	(1)High School	Male	Protestant	Yes	Favor
+Never Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Male	None	Yes	Favor
+Married	26-35	(4)Graduate	Male	Other	No	Favor
+Married	76-82	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(1)High School	Male	None	No	Favor
+Never Married	36-45	(1)High School	Female	Protestant	Yes	Oppose
+Never Married	18-25	(3)Bachelor	Male	Protestant	No	Oppose
+Married	46-55	(4)Graduate	Female	Christian	No	Favor
+Divorced	56-65	(0) < High School	Female	Catholic	No	Favor
+Never Married	26-35	(1)High School	Female	Christian	Yes	Favor
+Married	46-55	(3)Bachelor	Male	Catholic	Refused	Favor
+Divorced	56-65	(1)High School	Male	None	No	Favor
+Never Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Male	None	No	Oppose
+Married	56-65	(1)High School	Male	Protestant	Refused	Favor
+Never Married	46-55	(4)Graduate	Female	Buddhism	No	Oppose
+Married	18-25	(3)Bachelor	Male	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	No	Favor
+Never Married	36-45	(3)Bachelor	Male	Catholic	No	Favor
+Divorced	46-55	(0) < High School	Male	Catholic	No	Oppose
+Married	26-35	(1)High School	Female	Christian	No	Oppose
+Married	46-55	(0) < High School	Male	None	Yes	Favor
+Married	36-45	(1)High School	Male	Protestant	Yes	Oppose
+Never Married	18-25	(0) < High School	Male	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Female	Christian	Yes	Favor
+Never Married	46-55	(0) < High School	Female	Protestant	No	Oppose
+Never Married	26-35	(4)Graduate	Male	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Male	Protestant	No	Oppose
+Never Married	26-35	(4)Graduate	Female	Protestant	No	Oppose
+Divorced	36-45	(1)High School	Female	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	Catholic	No	Oppose
+Married	46-55	(3)Bachelor	Male	None	No	Favor
+Never Married	18-25	(0) < High School	Female	Catholic	No	Oppose
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Married	26-35	(3)Bachelor	Male	Catholic	Yes	Favor
+Married	56-65	(1)High School	Male	None	Yes	Favor
+Married	36-45	(1)High School	Female	Catholic	No	Oppose
+Never Married	46-55	(0) < High School	Female	Protestant	Yes	Favor
+Widowed	56-65	(1)High School	Male	Protestant	No	Favor
+Never Married	18-25	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	None	No	Oppose
+Never Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(3)Bachelor	Female	Catholic	No	Oppose
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Married	56-65	(0) < High School	Female	Catholic	No	Favor
+Divorced	46-55	(3)Bachelor	Female	Protestant	Yes	Favor
+Never Married	46-55	(4)Graduate	Male	Protestant	Yes	Oppose
+Divorced	26-35	(1)High School	Female	Christian	No	Oppose
+Married	46-55	(3)Bachelor	Female	None	No	Favor
+Never Married	26-35	(1)High School	Male	Protestant	No	Favor
+Divorced	46-55	(2)Jr. College	Female	Christian	No	Favor
+Married	66-75	(1)High School	Female	Catholic	No	Oppose
+Married	36-45	(4)Graduate	Female	Protestant	No	Favor
+Married	46-55	(0) < High School	Male	Catholic	No	Favor
+Separated	56-65	(1)High School	Male	Catholic	Yes	Favor
+Married	36-45	(3)Bachelor	Male	None	Yes	Favor
+Married	56-65	(3)Bachelor	Male	Buddhism	No	Oppose
+Married	36-45	(1)High School	Female	None	No	Oppose
+Divorced	46-55	(1)High School	Female	Protestant	Refused	Favor
+Married	36-45	(3)Bachelor	Male	Catholic	No	Favor
+Never Married	56-65	(1)High School	Female	Protestant	Yes	Favor
+Married	66-75	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Female	Catholic	No	Oppose
+Never Married	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(4)Graduate	Female	Catholic	No	Favor
+Never Married	36-45	(1)High School	Male	Christian	Yes	Favor
+Married	26-35	(0) < High School	Male	Orthodox-Christian	No	Oppose
+Divorced	26-35	(3)Bachelor	Female	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Male	None	No	Oppose
+Married	56-65	(2)Jr. College	Female	Catholic	Refused	Favor
+Never Married	46-55	(3)Bachelor	Male	None	No	Oppose
+Married	36-45	(3)Bachelor	Female	Catholic	No	Favor
+Separated	26-35	(1)High School	Male	Catholic	No	Favor
+Married	46-55	(4)Graduate	Female	Catholic	No	Favor
+Married	26-35	(4)Graduate	Female	Catholic	Yes	Favor
+Divorced	36-45	(0) < High School	Female	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Male	None	No	Favor
+Married	36-45	(1)High School	Male	None	Yes	Oppose
+Never Married	36-45	(3)Bachelor	Female	Protestant	Yes	Favor
+Married	36-45	(1)High School	Female	None	Yes	Favor
+Married	36-45	(3)Bachelor	Male	None	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Never Married	26-35	(4)Graduate	Female	Jewish	No	Oppose
+Married	26-35	(3)Bachelor	Female	Catholic	No	Oppose
+Divorced	46-55	(4)Graduate	Male	None	Yes	Favor
+Married	46-55	(4)Graduate	Female	Protestant	No	Oppose
+Never Married	26-35	(3)Bachelor	Male	Protestant	No	Favor
+Never Married	26-35	(3)Bachelor	Male	Catholic	No	Favor
+Widowed	66-75	(1)High School	Female	Catholic	No	Oppose
+Married	66-75	(2)Jr. College	Female	Catholic	No	Favor
+Married	82 +	(1)High School	Female	Protestant	No	Oppose
+Widowed	76-82	(0) < High School	Male	None	No	Oppose
+Never Married	26-35	(3)Bachelor	Female	Hinduism	No	Oppose
+Never Married	18-25	(3)Bachelor	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	None	Refused	Favor
+Divorced	56-65	(3)Bachelor	Male	Catholic	No	Favor
+Never Married	18-25	(0) < High School	Female	None	No	Favor
+Never Married	18-25	(0) < High School	Female	Catholic	No	Oppose
+Married	56-65	(3)Bachelor	Female	Jewish	No	Favor
+Divorced	66-75	(1)High School	Male	Protestant	Yes	Favor
+Married	56-65	(1)High School	Male	Catholic	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Married	46-55	(2)Jr. College	Female	Protestant	Yes	Favor
+Widowed	66-75	(1)High School	Male	Christian	Yes	Favor
+Married	26-35	(1)High School	Female	None	No	Favor
+Divorced	66-75	(1)High School	Male	Protestant	Yes	Favor
+Divorced	26-35	(1)High School	Male	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Never Married	36-45	(3)Bachelor	Male	None	No	Favor
+Never Married	26-35	(1)High School	Male	Catholic	No	Oppose
+Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(3)Bachelor	Female	Catholic	No	Oppose
+Married	36-45	(1)High School	Male	Other	No	Favor
+Married	26-35	(1)High School	Male	None	Yes	Favor
+Married	66-75	(1)High School	Male	None	Yes	Favor
+Married	26-35	(1)High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(0) < High School	Male	Protestant	No	Favor
+Widowed	66-75	(2)Jr. College	Female	Protestant	Yes	Favor
+Divorced	46-55	(3)Bachelor	Male	None	No	Oppose
+Never Married	36-45	(1)High School	Male	None	No	Favor
+Widowed	26-35	(3)Bachelor	Female	None	No	Oppose
+Married	66-75	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	Buddhism	No	Oppose
+Married	46-55	(1)High School	Female	Buddhism	No	Oppose
+Widowed	36-45	(1)High School	Male	Catholic	No	Oppose
+Married	36-45	(3)Bachelor	Female	None	Yes	Favor
+Married	46-55	(3)Bachelor	Female	None	No	Favor
+Never Married	26-35	(0) < High School	Female	None	No	Favor
+Never Married	26-35	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	36-45	(1)High School	Female	None	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	66-75	(1)High School	Male	Protestant	Yes	Favor
+Married	56-65	(1)High School	Female	Catholic	No	Favor
+Divorced	36-45	(2)Jr. College	Female	Protestant	No	Favor
+Divorced	46-55	(4)Graduate	Female	Protestant	Yes	Oppose
+Never Married	26-35	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(4)Graduate	Male	None	No	Oppose
+Never Married	26-35	(3)Bachelor	Female	Catholic	Yes	Favor
+Married	66-75	(3)Bachelor	Male	Protestant	Yes	Favor
+Divorced	26-35	(1)High School	Male	Christian	No	Favor
+Married	46-55	(0) < High School	Female	None	Refused	Oppose
+Married	36-45	(3)Bachelor	Female	Protestant	No	Favor
+Never Married	26-35	(1)High School	Male	Christian	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(3)Bachelor	Female	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Married	26-35	(4)Graduate	Female	Catholic	No	Oppose
+Married	56-65	(2)Jr. College	Male	Protestant	No	Oppose
+Never Married	26-35	(3)Bachelor	Male	None	Yes	Favor
+Widowed	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Male	None	No	Favor
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Never Married	18-25	(1)High School	Female	Jewish	No	Favor
+Never Married	18-25	(1)High School	Female	Catholic	No	Favor
+Divorced	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	66-75	(3)Bachelor	Male	None	No	Favor
+Married	26-35	(0) < High School	Female	Catholic	No	Oppose
+Married	26-35	(4)Graduate	Female	Catholic	No	Oppose
+Divorced	36-45	(2)Jr. College	Female	Catholic	Yes	Favor
+Divorced	76-82	(3)Bachelor	Male	None	No	Favor
+Never Married	18-25	(4)Graduate	Male	Jewish	Yes	Favor
+Married	36-45	(1)High School	Male	Protestant	Refused	Favor
+Never Married	18-25	(1)High School	Female	None	No	Oppose
+Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Married	66-75	(4)Graduate	Female	Protestant	Yes	Oppose
+Never Married	36-45	(1)High School	Female	Catholic	No	Favor
+Married	46-55	(0) < High School	Female	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Male	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Female	Protestant	No	Favor
+Widowed	66-75	(1)High School	Male	Protestant	Yes	Favor
+Married	56-65	(3)Bachelor	Male	Protestant	No	Oppose
+Married	76-82	(3)Bachelor	Male	Protestant	Yes	Favor
+Divorced	46-55	(3)Bachelor	Female	None	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Male	Catholic	Refused	Favor
+Widowed	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(4)Graduate	Female	Protestant	Yes	Favor
+Never Married	18-25	(1)High School	Female	Protestant	No	Oppose
+Married	26-35	(1)High School	Female	Catholic	Yes	Favor
+Never Married	18-25	(3)Bachelor	Female	Protestant	No	Oppose
+Married	56-65	(4)Graduate	Male	Catholic	No	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	No	Favor
+Married	56-65	(4)Graduate	Male	Catholic	No	Favor
+Divorced	36-45	(3)Bachelor	Female	Jewish	No	Oppose
+Never Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Female	Catholic	No	Favor
+Separated	56-65	(1)High School	Female	Protestant	Yes	Favor
+Never Married	46-55	(3)Bachelor	Female	Protestant	No	Oppose
+Widowed	46-55	(3)Bachelor	Male	Protestant	No	Oppose
+Never Married	26-35	(3)Bachelor	Male	Protestant	No	Favor
+Separated	56-65	(4)Graduate	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Divorced	26-35	(0) < High School	Female	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Male	Catholic	Yes	Favor
+Divorced	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	56-65	(4)Graduate	Male	Jewish	No	Favor
+Married	26-35	(1)High School	Female	Christian	No	Favor
+Never Married	26-35	(4)Graduate	Male	Protestant	No	Favor
+Never Married	26-35	(1)High School	Male	Protestant	No	Favor
+Married	46-55	(2)Jr. College	Male	Catholic	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	36-45	(4)Graduate	Male	None	Yes	Favor
+Never Married	26-35	(4)Graduate	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Female	Catholic	Yes	Favor
+Separated	66-75	(3)Bachelor	Male	Catholic	Yes	Favor
+Married	36-45	(0) < High School	Male	Protestant	Yes	Oppose
+Married	26-35	(0) < High School	Female	Other	No	Oppose
+Never Married	26-35	(1)High School	Male	Catholic	No	Favor
+Never Married	26-35	(3)Bachelor	Male	Catholic	No	Favor
+Widowed	36-45	(3)Bachelor	Male	Orthodox-Christian	Yes	Favor
+Divorced	26-35	(1)High School	Male	Catholic	No	Favor
+Never Married	66-75	(1)High School	Male	Catholic	No	Favor
+Never Married	26-35	(0) < High School	Female	Catholic	No	Favor
+Never Married	36-45	(1)High School	Female	Protestant	Refused	Favor
+Divorced	36-45	(4)Graduate	Female	Catholic	No	Favor
+Never Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	Catholic	No	Favor
+Divorced	36-45	(1)High School	Female	Catholic	Yes	Favor
+Never Married	26-35	(4)Graduate	Female	Catholic	Yes	Favor
+Married	56-65	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	56-65	(4)Graduate	Male	Protestant	No	Oppose
+Married	46-55	(1)High School	Male	Catholic	Yes	Favor
+Divorced	36-45	(3)Bachelor	Female	Catholic	Yes	Oppose
+Married	46-55	(1)High School	Male	Protestant	No	Favor
+Divorced	26-35	(2)Jr. College	Male	Catholic	Yes	Oppose
+Never Married	46-55	(1)High School	Female	None	No	Favor
+Married	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(2)Jr. College	Female	Protestant	Yes	Oppose
+Divorced	82 +	(1)High School	Male	Protestant	No	Favor
+Never Married	26-35	(3)Bachelor	Male	Catholic	No	Oppose
+Divorced	56-65	(4)Graduate	Male	Protestant	No	Favor
+Married	66-75	(1)High School	Female	Christian	No	Favor
+Never Married	18-25	(0) < High School	Female	Catholic	No	Favor
+Divorced	66-75	(4)Graduate	Female	None	No	Favor
+Never Married	36-45	(4)Graduate	Female	Protestant	Yes	Favor
+Widowed	76-82	(2)Jr. College	Male	Protestant	Yes	Favor
+Married	56-65	(1)High School	Male	Catholic	No	Favor
+Never Married	36-45	(3)Bachelor	Female	None	Yes	Oppose
+Divorced	36-45	(1)High School	Female	None	No	Oppose
+Widowed	82 +	(1)High School	Female	Protestant	No	Favor
+Divorced	36-45	(1)High School	Male	Protestant	Yes	Oppose
+Married	66-75	(1)High School	Female	None	No	Favor
+Never Married	36-45	(4)Graduate	Female	Protestant	No	Favor
+Never Married	36-45	(3)Bachelor	Female	None	No	Oppose
+Divorced	18-25	(1)High School	Female	Protestant	No	Favor
+Married	26-35	(0) < High School	Female	Catholic	No	Favor
+Never Married	26-35	(3)Bachelor	Female	Protestant	Yes	Favor
+Divorced	26-35	(1)High School	Female	Catholic	No	Oppose
+Divorced	46-55	(4)Graduate	Female	Protestant	Yes	Favor
+Married	26-35	(3)Bachelor	Male	Christian	Refused	Favor
+Divorced	56-65	(1)High School	Male	Protestant	No	Favor
+Married	26-35	(1)High School	Female	None	Yes	Favor
+Divorced	66-75	(1)High School	Female	Catholic	No	Oppose
+Married	56-65	(1)High School	Female	Christian	No	Favor
+Married	56-65	(3)Bachelor	Male	None	Yes	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Married	26-35	(1)High School	Male	None	Yes	Favor
+Divorced	46-55	(1)High School	Female	Catholic	No	Favor
+Separated	36-45	(1)High School	Female	Christian	No	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Married	26-35	(1)High School	Female	Christian	No	Favor
+Widowed	66-75	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(4)Graduate	Female	Buddhism	No	Favor
+Divorced	36-45	(4)Graduate	Male	Catholic	No	Oppose
+Married	36-45	(1)High School	Female	None	No	Oppose
+Divorced	46-55	(1)High School	Male	None	Refused	Favor
+Widowed	46-55	(2)Jr. College	Male	Protestant	Yes	Favor
+Separated	26-35	(4)Graduate	Female	Protestant	Yes	Oppose
+Divorced	46-55	(0) < High School	Female	None	No	Favor
+Divorced	46-55	(1)High School	Female	Catholic	Yes	Oppose
+Divorced	66-75	(3)Bachelor	Male	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	Yes	Favor
+Never Married	26-35	(2)Jr. College	Male	None	No	Favor
+Widowed	56-65	(0) < High School	Male	Protestant	No	Favor
+Never Married	26-35	(3)Bachelor	Male	Catholic	No	Favor
+Never Married	26-35	(3)Bachelor	Male	None	Yes	Favor
+Never Married	26-35	(3)Bachelor	Female	None	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	No	Oppose
+Divorced	46-55	(1)High School	Female	Catholic	No	Oppose
+Married	56-65	(1)High School	Female	Christian	No	Favor
+Never Married	18-25	(1)High School	Male	Catholic	No	Favor
+Never Married	18-25	(1)High School	Female	Protestant	No	Oppose
+Divorced	76-82	(1)High School	Female	Catholic	Yes	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(3)Bachelor	Female	Protestant	No	Favor
+Widowed	76-82	(1)High School	Male	Catholic	Yes	Favor
+Never Married	18-25	(0) < High School	Female	Catholic	No	Favor
+Divorced	46-55	(2)Jr. College	Male	Catholic	No	Favor
+Married	36-45	(1)High School	Female	None	No	Favor
+Never Married	26-35	(1)High School	Female	Christian	Refused	Oppose
+Never Married	26-35	(2)Jr. College	Male	Protestant	Yes	Favor
+Never Married	46-55	(0) < High School	Female	Protestant	Yes	Oppose
+Married	36-45	(0) < High School	Female	Catholic	No	Oppose
+Married	26-35	(4)Graduate	Female	None	No	Favor
+Never Married	46-55	(1)High School	Female	Catholic	Yes	Favor
+Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	66-75	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(4)Graduate	Female	Protestant	Yes	Oppose
+Married	26-35	(0) < High School	Female	Protestant	No	Favor
+Never Married	36-45	(1)High School	Male	Protestant	Yes	Oppose
+Divorced	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	76-82	(1)High School	Female	Protestant	Yes	Favor
+Divorced	36-45	(1)High School	Male	None	Yes	Oppose
+Married	46-55	(0) < High School	Male	None	Yes	Oppose
+Never Married	26-35	(4)Graduate	Male	None	No	Oppose
+Divorced	46-55	(2)Jr. College	Female	Protestant	No	Favor
+Widowed	76-82	(1)High School	Male	None	Yes	Favor
+Married	26-35	(1)High School	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Divorced	46-55	(0) < High School	Male	Catholic	No	Oppose
+Never Married	36-45	(4)Graduate	Female	None	No	Oppose
+Divorced	56-65	(1)High School	Female	None	No	Oppose
+Divorced	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	Buddhism	Yes	Oppose
+Married	26-35	(4)Graduate	Male	Protestant	Yes	Favor
+Never Married	46-55	(3)Bachelor	Male	Catholic	No	Favor
+Married	46-55	(0) < High School	Female	Protestant	Yes	Oppose
+Married	46-55	(3)Bachelor	Male	None	Yes	Favor
+Married	56-65	(1)High School	Female	Protestant	No	Favor
+Never Married	36-45	(4)Graduate	Male	Protestant	Yes	Favor
+Never Married	18-25	(2)Jr. College	Male	Protestant	Yes	Favor
+Married	46-55	(0) < High School	Male	Protestant	No	Oppose
+Widowed	66-75	(1)High School	Male	Catholic	Yes	Favor
+Never Married	26-35	(4)Graduate	Male	Protestant	No	Oppose
+Divorced	56-65	(3)Bachelor	Male	Catholic	Yes	Oppose
+Married	26-35	(3)Bachelor	Male	Buddhism	No	Favor
+Never Married	26-35	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	46-55	(1)High School	Male	None	No	Favor
+Divorced	36-45	(4)Graduate	Male	Catholic	Yes	Favor
+Married	46-55	(1)High School	Male	None	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	Protestant	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	66-75	(1)High School	Female	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Female	Protestant	No	Oppose
+Married	66-75	(4)Graduate	Female	Protestant	No	Oppose
+Widowed	66-75	(1)High School	Male	Protestant	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	No	Favor
+Married	18-25	(0) < High School	Female	Christian	No	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	No	Favor
+Divorced	36-45	(1)High School	Female	Catholic	No	Favor
+Married	36-45	(3)Bachelor	Female	Protestant	Yes	Favor
+Divorced	66-75	(4)Graduate	Male	Protestant	Yes	Favor
+Married	56-65	(1)High School	Male	Protestant	Refused	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	36-45	(3)Bachelor	Male	Catholic	No	Oppose
+Never Married	36-45	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Never Married	46-55	(0) < High School	Female	Catholic	No	Favor
+Never Married	26-35	(0) < High School	Male	Jewish	Yes	Favor
+Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(0) < High School	Male	None	Yes	Favor
+Married	76-82	(2)Jr. College	Female	Protestant	Yes	Favor
+Never Married	18-25	(1)High School	Male	Protestant	No	Oppose
+Divorced	18-25	(4)Graduate	Male	None	No	Oppose
+Never Married	26-35	(1)High School	Male	Protestant	Yes	Oppose
+Never Married	36-45	(1)High School	Male	Protestant	Refused	Favor
+Divorced	46-55	(1)High School	Female	Catholic	No	Favor
+Never Married	18-25	(4)Graduate	Female	None	No	Oppose
+Married	26-35	(1)High School	Male	None	No	Oppose
+Married	46-55	(1)High School	Female	Catholic	No	Favor
+Married	18-25	(3)Bachelor	Female	Catholic	No	Favor
+Married	36-45	(3)Bachelor	Female	Protestant	Yes	Oppose
+Never Married	18-25	(0) < High School	Female	None	No	Oppose
+Married	46-55	(3)Bachelor	Female	None	Yes	Oppose
+Divorced	46-55	(4)Graduate	Female	Buddhism	No	Favor
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Never Married	36-45	(3)Bachelor	Female	Catholic	No	Oppose
+Divorced	46-55	(4)Graduate	Female	Protestant	Yes	Favor
+Widowed	66-75	(2)Jr. College	Male	None	No	Oppose
+Never Married	18-25	(1)High School	Female	Catholic	No	Favor
+Never Married	56-65	(1)High School	Female	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	Christian	No	Oppose
+Widowed	66-75	(2)Jr. College	Female	Protestant	No	Oppose
+Never Married	46-55	(4)Graduate	Female	Catholic	No	Favor
+Never Married	18-25	(3)Bachelor	Male	None	No	Oppose
+Never Married	18-25	(3)Bachelor	Female	None	No	Favor
+Divorced	56-65	(2)Jr. College	Female	Protestant	No	Oppose
+Married	76-82	(0) < High School	Male	Protestant	No	Favor
+Divorced	36-45	(4)Graduate	Female	Protestant	No	Oppose
+Never Married	46-55	(1)High School	Female	Catholic	Yes	Favor
+Married	56-65	(1)High School	Male	None	Yes	Oppose
+Never Married	26-35	(4)Graduate	Male	None	Yes	Favor
+Separated	26-35	(1)High School	Female	Catholic	No	Oppose
+Married	56-65	(4)Graduate	Male	Jewish	No	Favor
+Married	66-75	(1)High School	Male	Christian	No	Oppose
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	Protestant	No	Favor
+Never Married	46-55	(4)Graduate	Male	Protestant	Yes	Favor
+Never Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Widowed	66-75	(3)Bachelor	Female	Protestant	Yes	Favor
+Married	26-35	(1)High School	Male	Protestant	Yes	Oppose
+Never Married	26-35	(4)Graduate	Female	None	No	Favor
+Married	46-55	(4)Graduate	Male	Catholic	No	Oppose
+Divorced	66-75	(3)Bachelor	Male	Protestant	Yes	Favor
+Divorced	56-65	(1)High School	Female	Protestant	Yes	Favor
+Married	26-35	(3)Bachelor	Male	Catholic	No	Oppose
+Divorced	56-65	(1)High School	Male	Catholic	No	Favor
+Divorced	66-75	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	56-65	(0) < High School	Male	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Female	Jewish	No	Favor
+Separated	46-55	(1)High School	Female	None	Yes	Favor
+Never Married	36-45	(4)Graduate	Male	Protestant	No	Favor
+Never Married	18-25	(3)Bachelor	Female	Catholic	No	Oppose
+Divorced	46-55	(1)High School	Female	Protestant	No	Favor
+Separated	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	56-65	(2)Jr. College	Male	Protestant	Yes	Favor
+Widowed	82 +	(3)Bachelor	Female	Catholic	Yes	Favor
+Married	66-75	(1)High School	Male	Protestant	Refused	Favor
+Divorced	66-75	(1)High School	Male	Catholic	Refused	Favor
+Separated	46-55	(2)Jr. College	Male	Buddhism	No	Favor
+Never Married	26-35	(0) < High School	Female	Buddhism	No	Favor
+Divorced	26-35	(1)High School	Female	Protestant	No	Favor
+Never Married	56-65	(1)High School	Male	None	Yes	Favor
+Never Married	36-45	(1)High School	Male	None	No	Oppose
+Never Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Female	Catholic	No	Favor
+Never Married	26-35	(1)High School	Female	None	Yes	Favor
+Never Married	36-45	(1)High School	Male	None	Yes	Favor
+Married	46-55	(4)Graduate	Female	None	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	No	Oppose
+Divorced	46-55	(0) < High School	Female	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Female	None	No	Favor
+Married	36-45	(2)Jr. College	Female	None	No	Favor
+Divorced	56-65	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(3)Bachelor	Female	None	No	Favor
+Married	46-55	(1)High School	Female	Catholic	Yes	Favor
+Married	36-45	(2)Jr. College	Male	Catholic	Yes	Favor
+Divorced	46-55	(3)Bachelor	Female	Protestant	No	Oppose
+Married	46-55	(2)Jr. College	Female	Christian	No	Favor
+Widowed	66-75	(1)High School	Male	None	Yes	Oppose
+Married	36-45	(2)Jr. College	Female	Protestant	Refused	Favor
+Widowed	76-82	(1)High School	Male	None	Yes	Favor
+Married	66-75	(1)High School	Male	Protestant	Yes	Oppose
+Married	76-82	(0) < High School	Female	None	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Divorced	46-55	(0) < High School	Female	Protestant	No	Favor
+Married	46-55	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	26-35	(4)Graduate	Female	Buddhism	No	Oppose
+Never Married	18-25	(3)Bachelor	Male	Catholic	No	Oppose
+Divorced	56-65	(1)High School	Female	Catholic	Yes	Favor
+Married	36-45	(3)Bachelor	Female	Catholic	No	Favor
+Married	36-45	(3)Bachelor	Female	None	No	Oppose
+Married	46-55	(1)High School	Female	Catholic	No	Favor
+Never Married	46-55	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	26-35	(4)Graduate	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	Catholic	Yes	Oppose
+Married	36-45	(1)High School	Male	None	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	Catholic	Yes	Favor
+Married	66-75	(4)Graduate	Female	Christian	No	Favor
+Married	36-45	(0) < High School	Female	Protestant	No	Oppose
+Married	36-45	(0) < High School	Male	None	No	Favor
+Married	46-55	(1)High School	Female	Catholic	No	Favor
+Married	36-45	(0) < High School	Male	Protestant	Yes	Favor
+Divorced	46-55	(3)Bachelor	Male	Catholic	Yes	Favor
+Married	26-35	(3)Bachelor	Female	Catholic	No	Oppose
+Married	56-65	(0) < High School	Female	Protestant	No	Favor
+Divorced	56-65	(4)Graduate	Female	Christian	No	Oppose
+Never Married	36-45	(0) < High School	Male	Protestant	No	Favor
+Widowed	46-55	(1)High School	Male	Protestant	Yes	Oppose
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(4)Graduate	Female	None	No	Favor
+Never Married	26-35	(1)High School	Male	None	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Oppose
+Divorced	66-75	(1)High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(0) < High School	Female	None	No	Favor
+Married	46-55	(3)Bachelor	Female	Catholic	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	18-25	(3)Bachelor	Male	None	No	Favor
+Married	46-55	(4)Graduate	Male	Protestant	No	Favor
+Never Married	26-35	(1)High School	Male	NA	Refused	Favor
+Never Married	26-35	(0) < High School	Male	None	Yes	Favor
+Never Married	36-45	(1)High School	Male	Christian	No	Oppose
+Never Married	18-25	(1)High School	Male	Protestant	No	Favor
+Never Married	26-35	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	56-65	(3)Bachelor	Male	None	No	Oppose
+Married	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Widowed	76-82	(1)High School	Female	Protestant	No	Oppose
+Married	26-35	(3)Bachelor	Male	Catholic	No	Favor
+Married	26-35	(1)High School	Male	Catholic	No	Oppose
+Separated	36-45	(0) < High School	Male	Buddhism	No	Favor
+Married	36-45	(0) < High School	Female	None	No	Favor
+Divorced	66-75	(4)Graduate	Male	Jewish	No	Oppose
+Never Married	26-35	(1)High School	Male	Catholic	Yes	Favor
+Never Married	18-25	(3)Bachelor	Female	Catholic	No	Oppose
+Divorced	66-75	(3)Bachelor	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Female	None	No	Favor
+Married	46-55	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	18-25	(0) < High School	Female	Catholic	No	Oppose
+Never Married	26-35	(1)High School	Male	Protestant	No	Oppose
+Never Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	66-75	(1)High School	Male	Protestant	No	Favor
+Married	26-35	(1)High School	Male	Protestant	No	Favor
+Married	56-65	(3)Bachelor	Female	None	Yes	Favor
+Married	26-35	(0) < High School	Female	Catholic	Yes	Favor
+Married	56-65	(1)High School	Male	None	No	Favor
+Married	26-35	(1)High School	Female	None	No	Oppose
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(4)Graduate	Female	None	No	Oppose
+Divorced	46-55	(1)High School	Female	Catholic	No	Favor
+Divorced	46-55	(0) < High School	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Male	None	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(2)Jr. College	Female	Catholic	No	Favor
+Married	36-45	(1)High School	Female	Buddhism	Yes	Favor
+Divorced	56-65	(4)Graduate	Female	Catholic	No	Oppose
+Never Married	36-45	(1)High School	Female	None	No	Favor
+Never Married	18-25	(1)High School	Female	Catholic	No	Oppose
+Never Married	46-55	(1)High School	Male	None	Yes	Oppose
+Separated	26-35	(1)High School	Male	None	No	Favor
+Never Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Never Married	36-45	(1)High School	Male	Catholic	No	Favor
+Never Married	26-35	(3)Bachelor	Male	Christian	No	Oppose
+Divorced	46-55	(1)High School	Male	None	Yes	Favor
+Married	26-35	(4)Graduate	Male	Catholic	Yes	Favor
+Divorced	46-55	(1)High School	Male	None	Yes	Favor
+Married	36-45	(0) < High School	Male	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Female	Catholic	No	Favor
+Divorced	36-45	(1)High School	Female	None	No	Favor
+Married	66-75	(1)High School	Male	Catholic	No	Favor
+Married	26-35	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	26-35	(3)Bachelor	Female	Protestant	No	Oppose
+Never Married	26-35	(0) < High School	Female	Protestant	No	Favor
+Never Married	26-35	(2)Jr. College	Female	Inter-Nondenominational	No	Favor
+Married	46-55	(1)High School	Male	None	Yes	Favor
+Never Married	18-25	(0) < High School	Female	Protestant	No	Oppose
+Married	56-65	(4)Graduate	Male	Jewish	Yes	Favor
+Married	26-35	(0) < High School	Female	Protestant	Yes	Favor
+Married	36-45	(3)Bachelor	Female	Protestant	No	Oppose
+Divorced	46-55	(4)Graduate	Male	Catholic	Yes	Favor
+Never Married	18-25	(1)High School	Male	Catholic	No	Oppose
+Married	36-45	(2)Jr. College	Male	None	Yes	Oppose
+Divorced	36-45	(1)High School	Female	Protestant	Yes	Favor
+Never Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	82 +	(0) < High School	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Male	None	No	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Favor
+Never Married	36-45	(2)Jr. College	Female	Protestant	No	Favor
+Separated	26-35	(3)Bachelor	Male	Catholic	Yes	Oppose
+Never Married	26-35	(3)Bachelor	Female	Protestant	No	Favor
+Married	46-55	(4)Graduate	Male	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Male	Catholic	Yes	Favor
+Never Married	46-55	(1)High School	Male	Protestant	No	Favor
+Never Married	26-35	(4)Graduate	Male	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Male	Catholic	No	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Widowed	76-82	(1)High School	Male	None	Yes	Oppose
+Married	36-45	(1)High School	Male	None	Yes	Favor
+Never Married	46-55	(3)Bachelor	Male	Christian	No	Favor
+Married	26-35	(3)Bachelor	Male	Protestant	No	Oppose
+Married	26-35	(2)Jr. College	Female	None	Yes	Oppose
+Never Married	26-35	(4)Graduate	Male	Hinduism	No	Favor
+Widowed	56-65	(1)High School	Male	Christian	No	Favor
+Never Married	36-45	(3)Bachelor	Female	None	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	No	Oppose
+Married	46-55	(3)Bachelor	Female	Catholic	No	Favor
+Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Never Married	18-25	(1)High School	Female	Catholic	Yes	Favor
+Married	36-45	(1)High School	Female	Native American	Yes	Oppose
+Never Married	36-45	(1)High School	Male	Catholic	No	Favor
+Married	82 +	(1)High School	Female	Protestant	Yes	Favor
+Never Married	18-25	(1)High School	Male	Catholic	No	Favor
+Divorced	56-65	(1)High School	Female	None	No	Favor
+Married	46-55	(1)High School	Male	Catholic	Yes	Favor
+Widowed	82 +	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(1)High School	Male	Christian	No	Favor
+Never Married	26-35	(1)High School	Male	None	No	Favor
+Married	26-35	(0) < High School	Female	Protestant	No	Favor
+Never Married	36-45	(4)Graduate	Male	None	Yes	Favor
+Never Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	18-25	(1)High School	Male	Protestant	No	Oppose
+Never Married	18-25	(4)Graduate	Male	Catholic	Yes	Favor
+Never Married	26-35	(4)Graduate	Male	Catholic	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Married	26-35	(0) < High School	Female	Christian	No	Favor
+Married	36-45	(1)High School	Male	Protestant	Refused	Favor
+Divorced	46-55	(1)High School	Female	None	No	Oppose
+Married	66-75	(3)Bachelor	Male	Protestant	Yes	Favor
+Never Married	36-45	(2)Jr. College	Male	Protestant	No	Oppose
+Married	56-65	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	46-55	(1)High School	Female	Buddhism	No	Favor
+Married	46-55	(1)High School	Male	Catholic	Yes	Favor
+Married	76-82	(1)High School	Male	Protestant	No	Favor
+Married	56-65	(4)Graduate	Male	None	No	Oppose
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(1)High School	Male	Catholic	No	Favor
+Married	46-55	(3)Bachelor	Male	None	Yes	Favor
+Never Married	26-35	(4)Graduate	Male	None	No	Oppose
+Married	46-55	(2)Jr. College	Male	None	Yes	Favor
+Married	56-65	(4)Graduate	Male	Orthodox-Christian	No	Oppose
+Married	46-55	(3)Bachelor	Female	Protestant	Yes	Favor
+Married	36-45	(1)High School	Male	Catholic	Yes	Favor
+Married	46-55	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	18-25	(1)High School	Male	Protestant	No	Favor
+Married	36-45	(3)Bachelor	Female	Protestant	No	Favor
+Divorced	26-35	(1)High School	Female	Protestant	Yes	Favor
+Divorced	56-65	(1)High School	Female	Protestant	Yes	Oppose
+Divorced	46-55	(2)Jr. College	Male	Christian	No	Favor
+Never Married	26-35	(0) < High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Married	36-45	(1)High School	Male	Catholic	No	Oppose
+Never Married	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Female	Catholic	No	Favor
+Married	36-45	(1)High School	Male	Protestant	No	Oppose
+Separated	26-35	(3)Bachelor	Female	None	No	Favor
+Married	46-55	(2)Jr. College	Female	Catholic	No	Favor
+Married	56-65	(3)Bachelor	Male	Protestant	Yes	Oppose
+Divorced	56-65	(1)High School	Female	Protestant	Yes	Favor
+Separated	66-75	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(0) < High School	Female	Protestant	No	Oppose
+Married	26-35	(1)High School	Male	None	No	Oppose
+Never Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Male	Jewish	Refused	Oppose
+Married	36-45	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Female	Catholic	No	Oppose
+Never Married	18-25	(1)High School	Male	None	No	Favor
+Married	36-45	(1)High School	Male	None	No	Favor
+Married	56-65	(1)High School	Female	Catholic	No	Favor
+Married	46-55	(2)Jr. College	Male	Catholic	Yes	Favor
+Separated	66-75	(1)High School	Male	None	Yes	Favor
+Widowed	82 +	(1)High School	Male	Catholic	No	Oppose
+Divorced	56-65	(1)High School	Female	Protestant	No	Favor
+Never Married	36-45	(2)Jr. College	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Male	Catholic	No	Favor
+Never Married	46-55	(1)High School	Male	None	No	Oppose
+Separated	56-65	(4)Graduate	Male	Protestant	No	Favor
+Divorced	18-25	(3)Bachelor	Female	Other	No	Oppose
+Divorced	36-45	(1)High School	Female	Catholic	No	Oppose
+Married	56-65	(1)High School	Female	None	No	Favor
+Married	46-55	(4)Graduate	Female	Islam	No	Oppose
+Married	26-35	(2)Jr. College	Female	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Female	Catholic	No	Oppose
+Divorced	56-65	(1)High School	Male	None	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Married	56-65	(0) < High School	Female	Protestant	No	Oppose
+Never Married	26-35	(0) < High School	Female	Protestant	No	Oppose
+Never Married	18-25	(3)Bachelor	Female	Protestant	Yes	Favor
+Never Married	18-25	(4)Graduate	Male	NA	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(0) < High School	Female	None	No	Favor
+Divorced	56-65	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(0) < High School	Female	Catholic	No	Favor
+Married	56-65	(3)Bachelor	Male	Protestant	No	Favor
+Never Married	26-35	(3)Bachelor	Female	Protestant	Yes	Favor
+Married	36-45	(2)Jr. College	Male	Catholic	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	No	Favor
+Divorced	66-75	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	46-55	(2)Jr. College	Female	Protestant	No	Oppose
+Widowed	56-65	(4)Graduate	Male	None	No	Oppose
+Never Married	26-35	(1)High School	Female	Catholic	No	Favor
+Separated	26-35	(1)High School	Female	Catholic	No	Oppose
+Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Divorced	26-35	(0) < High School	Male	Protestant	No	Favor
+Never Married	56-65	(1)High School	Female	Protestant	Refused	Oppose
+Married	46-55	(0) < High School	Male	Protestant	No	Favor
+Never Married	26-35	(2)Jr. College	Female	None	No	Oppose
+Never Married	26-35	(1)High School	Female	Hinduism	No	Favor
+Divorced	36-45	(1)High School	Male	NA	No	Favor
+Never Married	18-25	(4)Graduate	Female	Protestant	No	Oppose
+Widowed	66-75	(0) < High School	Male	Protestant	Yes	Favor
+Married	26-35	(4)Graduate	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Male	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	None	No	Favor
+Married	76-82	(0) < High School	Male	Protestant	Yes	Favor
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Married	26-35	(4)Graduate	Female	Protestant	No	Oppose
+Married	36-45	(2)Jr. College	Female	NA	No	Favor
+Married	56-65	(2)Jr. College	Female	Catholic	No	Favor
+Married	36-45	(2)Jr. College	Female	Protestant	Yes	Favor
+Divorced	66-75	(1)High School	Female	Protestant	No	Favor
+Never Married	26-35	(4)Graduate	Male	Jewish	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(0) < High School	Male	Christian	Yes	Favor
+Widowed	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(4)Graduate	Male	NA	Yes	Oppose
+Never Married	18-25	(1)High School	Male	Catholic	No	Favor
+Married	46-55	(3)Bachelor	Male	Protestant	No	Oppose
+Widowed	56-65	(3)Bachelor	Male	Christian	Refused	Oppose
+Widowed	76-82	(1)High School	Male	Catholic	Yes	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Female	Catholic	No	Oppose
+Widowed	66-75	(3)Bachelor	Male	Protestant	No	Favor
+Never Married	46-55	(1)High School	Female	Catholic	No	Oppose
+Divorced	46-55	(0) < High School	Male	Catholic	No	Oppose
+Divorced	56-65	(1)High School	Female	Catholic	Yes	Favor
+Never Married	18-25	(3)Bachelor	Male	Inter-Nondenominational	Refused	Oppose
+Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Married	76-82	(0) < High School	Male	None	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Divorced	46-55	(1)High School	Male	None	Yes	Favor
+Married	26-35	(1)High School	Male	Catholic	Refused	Favor
+Married	56-65	(2)Jr. College	Male	Catholic	No	Favor
+Married	66-75	(2)Jr. College	Female	None	Yes	Favor
+Married	66-75	(1)High School	Male	Catholic	Yes	Favor
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Widowed	66-75	(1)High School	Male	Other	Yes	Favor
+Divorced	36-45	(0) < High School	Female	Protestant	Yes	Favor
+Widowed	46-55	(1)High School	Female	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Male	Catholic	No	Oppose
+Divorced	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Never Married	18-25	(1)High School	Male	Christian	No	Favor
+Married	56-65	(4)Graduate	Male	Protestant	No	Favor
+Married	46-55	(0) < High School	Female	Catholic	No	Favor
+Married	56-65	(0) < High School	Male	None	No	Favor
+Never Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Married	56-65	(1)High School	Male	None	No	Favor
+Never Married	26-35	(1)High School	Female	Protestant	Yes	Favor
+Never Married	46-55	(1)High School	Female	Protestant	No	Favor
+Separated	56-65	(3)Bachelor	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Female	Protestant	Yes	Oppose
+Divorced	46-55	(1)High School	Male	Catholic	Yes	Favor
+Married	36-45	(4)Graduate	Female	Catholic	No	Oppose
+Separated	46-55	(2)Jr. College	Male	None	Refused	Favor
+Married	26-35	(3)Bachelor	Male	Catholic	No	Oppose
+Married	26-35	(3)Bachelor	Female	Protestant	Yes	Favor
+Never Married	46-55	(3)Bachelor	Female	Protestant	No	Favor
+Widowed	46-55	(1)High School	Male	None	No	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(3)Bachelor	Female	Protestant	No	Favor
+Married	56-65	(0) < High School	Female	Catholic	No	Oppose
+Married	46-55	(0) < High School	Male	Protestant	Yes	Oppose
+Widowed	76-82	(1)High School	Male	Protestant	Refused	Favor
+Married	56-65	(0) < High School	Female	Protestant	Yes	Oppose
+Married	56-65	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	66-75	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(4)Graduate	Female	Protestant	No	Favor
+Never Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Never Married	18-25	(3)Bachelor	Female	None	Yes	Favor
+Never Married	26-35	(3)Bachelor	Female	Protestant	Yes	Favor
+Separated	46-55	(4)Graduate	Male	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Male	Protestant	Yes	Favor
+Divorced	46-55	(1)High School	Male	Catholic	No	Oppose
+Married	36-45	(4)Graduate	Female	Protestant	Yes	Oppose
+Married	46-55	(1)High School	Male	Christian	No	Favor
+Married	26-35	(1)High School	Female	Jewish	No	Favor
+Never Married	26-35	(1)High School	Male	Catholic	Yes	Favor
+Never Married	36-45	(1)High School	Male	None	Yes	Oppose
+Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Never Married	18-25	(4)Graduate	Male	Catholic	No	Favor
+Married	56-65	(4)Graduate	Female	Catholic	No	Oppose
+Married	36-45	(0) < High School	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Divorced	36-45	(0) < High School	Male	None	No	Favor
+Married	26-35	(0) < High School	Male	None	No	Favor
+Married	36-45	(0) < High School	Female	None	No	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(1)High School	Female	None	Yes	Oppose
+Never Married	76-82	(4)Graduate	Female	Protestant	Yes	Favor
+Separated	26-35	(1)High School	Male	None	Yes	Favor
+Married	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(0) < High School	Female	Catholic	No	Favor
+Divorced	36-45	(1)High School	Female	Other	No	Favor
+Married	46-55	(0) < High School	Female	Catholic	No	Favor
+Never Married	26-35	(0) < High School	Female	Catholic	No	Oppose
+Widowed	66-75	(4)Graduate	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Never Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Divorced	56-65	(3)Bachelor	Female	Catholic	No	Favor
+Married	56-65	(3)Bachelor	Male	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	Catholic	No	Favor
+Married	36-45	(0) < High School	Female	None	No	Favor
+Married	66-75	(0) < High School	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Never Married	26-35	(1)High School	Female	Catholic	No	Favor
+Married	26-35	(1)High School	Male	Protestant	No	Oppose
+Widowed	56-65	(1)High School	Female	Protestant	Yes	Oppose
+Married	46-55	(3)Bachelor	Female	Protestant	Refused	Favor
+Never Married	36-45	(1)High School	Female	Catholic	No	Favor
+Divorced	46-55	(1)High School	Female	Christian	Yes	Oppose
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Divorced	66-75	(1)High School	Male	Protestant	Yes	Favor
+Separated	66-75	(1)High School	Male	Protestant	No	Favor
+Married	36-45	(0) < High School	Female	Catholic	No	Oppose
+Never Married	18-25	(1)High School	Male	Christian	No	Favor
+Married	46-55	(1)High School	Male	Christian	No	Favor
+Never Married	56-65	(1)High School	Male	Protestant	Yes	Oppose
+Never Married	18-25	(3)Bachelor	Male	None	No	Favor
+Never Married	26-35	(1)High School	Male	None	No	Favor
+Married	36-45	(2)Jr. College	Female	Catholic	No	Favor
+Married	26-35	(1)High School	Male	Protestant	No	Favor
+Married	46-55	(1)High School	Female	Christian	No	Favor
+Separated	76-82	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(1)High School	Female	Catholic	No	Oppose
+Married	66-75	(4)Graduate	Female	Protestant	Yes	Favor
+Separated	56-65	(0) < High School	Male	Protestant	No	Favor
+Separated	36-45	(3)Bachelor	Female	Catholic	No	Oppose
+Divorced	46-55	(3)Bachelor	Female	Catholic	No	Favor
+Married	26-35	(0) < High School	Female	Protestant	No	Oppose
+Divorced	56-65	(1)High School	Female	Protestant	No	Favor
+Never Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Married	56-65	(1)High School	Female	Catholic	No	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Refused	Favor
+Married	26-35	(1)High School	Female	Christian	No	Oppose
+Never Married	26-35	(1)High School	Female	None	Yes	Favor
+Married	46-55	(0) < High School	Male	Christian	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	82 +	(0) < High School	Male	Protestant	No	Oppose
+Divorced	46-55	(1)High School	Male	None	Yes	Favor
+Married	46-55	(3)Bachelor	Female	Protestant	No	Oppose
+Never Married	26-35	(1)High School	Male	Christian	No	Favor
+Divorced	46-55	(0) < High School	Male	Protestant	Yes	Favor
+Married	46-55	(1)High School	Male	None	No	Favor
+Never Married	18-25	(3)Bachelor	Female	None	No	Favor
+Never Married	26-35	(1)High School	Female	Christian	Yes	Favor
+Divorced	36-45	(1)High School	Female	Catholic	No	Favor
+Divorced	46-55	(1)High School	Male	Catholic	Yes	Favor
+Never Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(3)Bachelor	Male	Catholic	No	Favor
+Married	26-35	(1)High School	Female	None	No	Oppose
+Divorced	46-55	(0) < High School	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Male	Christian	No	Favor
+Separated	46-55	(2)Jr. College	Female	Christian	No	Favor
+Married	56-65	(3)Bachelor	Male	Protestant	No	Oppose
+Never Married	36-45	(4)Graduate	Female	Protestant	No	Favor
+Never Married	26-35	(1)High School	Male	Buddhism	Yes	Oppose
+Divorced	36-45	(0) < High School	Female	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	Yes	Oppose
+Married	26-35	(0) < High School	Female	Protestant	No	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Separated	26-35	(0) < High School	Male	Islam	No	Favor
+Married	46-55	(4)Graduate	Male	Catholic	Yes	Favor
+Never Married	36-45	(4)Graduate	Male	Catholic	No	Oppose
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Married	56-65	(0) < High School	Female	Protestant	No	Favor
+Never Married	26-35	(0) < High School	Female	None	No	Favor
+Divorced	36-45	(4)Graduate	Female	None	No	Favor
+Never Married	26-35	(4)Graduate	Female	None	No	Oppose
+Married	36-45	(3)Bachelor	Female	Protestant	Yes	Oppose
+Never Married	56-65	(1)High School	Female	None	Yes	Oppose
+Widowed	46-55	(0) < High School	Female	None	Yes	Favor
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Separated	66-75	(3)Bachelor	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+NA	36-45	(3)Bachelor	Female	Protestant	Yes	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Female	Protestant	Yes	Favor
+Married	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Never Married	36-45	(4)Graduate	Male	Catholic	No	Oppose
+Divorced	46-55	(1)High School	Male	None	Yes	Favor
+Married	56-65	(0) < High School	Female	Christian	No	Oppose
+Divorced	56-65	(3)Bachelor	Male	Protestant	No	Oppose
+Divorced	56-65	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	46-55	(3)Bachelor	Female	Protestant	Yes	Favor
+Married	36-45	(0) < High School	Female	None	No	Favor
+Never Married	26-35	(1)High School	Male	Protestant	No	Oppose
+Married	46-55	(4)Graduate	Male	Protestant	Yes	Favor
+Married	46-55	(1)High School	Male	Christian	Yes	Favor
+Never Married	18-25	(1)High School	Female	Catholic	No	Favor
+Never Married	46-55	(0) < High School	Female	Protestant	Yes	Favor
+Separated	26-35	(1)High School	Female	Catholic	No	Favor
+Married	46-55	(3)Bachelor	Female	Protestant	Yes	Oppose
+Never Married	36-45	(1)High School	Male	None	No	Oppose
+Never Married	26-35	(0) < High School	Male	Protestant	Yes	Favor
+Divorced	36-45	(1)High School	Male	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Female	Catholic	No	Favor
+Married	46-55	(1)High School	Female	None	No	Favor
+Never Married	18-25	(0) < High School	Female	Catholic	No	Oppose
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Widowed	76-82	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	46-55	(1)High School	Female	Catholic	No	Oppose
+Never Married	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Married	36-45	(2)Jr. College	Male	Catholic	No	Oppose
+Never Married	56-65	(1)High School	Female	Protestant	Yes	Favor
+Married	66-75	(1)High School	Female	Protestant	Yes	Oppose
+Married	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Never Married	26-35	(4)Graduate	Male	Catholic	No	Oppose
+Married	46-55	(2)Jr. College	Female	None	No	Oppose
+Widowed	76-82	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(4)Graduate	Female	None	Yes	Favor
+Divorced	46-55	(1)High School	Male	Catholic	No	Favor
+Never Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(0) < High School	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Refused	Favor
+Never Married	46-55	(0) < High School	Female	Protestant	Yes	Favor
+Married	26-35	(4)Graduate	Male	Protestant	Yes	Favor
+Never Married	46-55	(0) < High School	Female	Jewish	No	Favor
+Never Married	18-25	(1)High School	Male	None	No	Oppose
+Divorced	46-55	(0) < High School	Female	Catholic	Yes	Oppose
+Married	46-55	(1)High School	Male	Protestant	Refused	Favor
+Married	46-55	(2)Jr. College	Male	Protestant	No	Oppose
+Never Married	18-25	(3)Bachelor	Female	NA	No	Oppose
+Widowed	56-65	(1)High School	Male	Catholic	No	Favor
+Divorced	36-45	(0) < High School	Male	Catholic	No	Favor
+Divorced	56-65	(3)Bachelor	Female	Catholic	Yes	Oppose
+Never Married	26-35	(1)High School	Male	None	No	Oppose
+Never Married	26-35	(1)High School	Female	Christian	No	Oppose
+Never Married	46-55	(0) < High School	Female	Catholic	No	Oppose
+Never Married	18-25	(1)High School	Female	Catholic	No	Favor
+Divorced	46-55	(4)Graduate	Female	Protestant	Yes	Oppose
+Married	46-55	(2)Jr. College	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Favor
+Married	56-65	(2)Jr. College	Male	Protestant	Yes	Favor
+Never Married	18-25	(3)Bachelor	Female	Catholic	No	Oppose
+Never Married	26-35	(1)High School	Male	None	Yes	Favor
+Married	26-35	(1)High School	Male	Protestant	No	Favor
+Widowed	82 +	(1)High School	Male	None	No	Favor
+Married	26-35	(2)Jr. College	Female	Catholic	No	Oppose
+Never Married	18-25	(3)Bachelor	Female	Protestant	No	Oppose
+Married	36-45	(0) < High School	Male	Catholic	No	Oppose
+Never Married	26-35	(1)High School	Female	Catholic	Yes	Favor
+Married	46-55	(1)High School	Female	Protestant	No	Oppose
+Married	26-35	(4)Graduate	Male	Jewish	No	Oppose
+Married	36-45	(1)High School	Male	None	No	Oppose
+Married	56-65	(3)Bachelor	Female	None	No	Oppose
+Married	66-75	(1)High School	Male	None	No	Favor
+Never Married	36-45	(0) < High School	Female	Christian	No	Favor
+Married	36-45	(1)High School	Male	Orthodox-Christian	No	Oppose
+Divorced	26-35	(3)Bachelor	Female	None	Yes	Favor
+Married	66-75	(3)Bachelor	Male	Protestant	No	Favor
+Divorced	66-75	(3)Bachelor	Male	Protestant	Yes	Oppose
+Married	26-35	(1)High School	Female	Christian	No	Oppose
+Never Married	18-25	(1)High School	Female	Catholic	No	Oppose
+Widowed	82 +	(1)High School	Female	Protestant	No	Oppose
+Separated	26-35	(1)High School	Male	Other	Yes	Oppose
+Separated	26-35	(0) < High School	Female	Catholic	No	Oppose
+Married	56-65	(4)Graduate	Male	Protestant	No	Oppose
+Married	36-45	(4)Graduate	Female	Buddhism	No	Favor
+Married	56-65	(2)Jr. College	Male	None	No	Favor
+Married	26-35	(2)Jr. College	Female	None	No	Oppose
+Divorced	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	Christian	Yes	Oppose
+Married	36-45	(1)High School	Female	None	No	Favor
+Divorced	26-35	(2)Jr. College	Female	Protestant	No	Favor
+Never Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(1)High School	Male	Protestant	No	Oppose
+Never Married	18-25	(4)Graduate	Female	Protestant	No	Oppose
+Widowed	66-75	(1)High School	Male	None	No	Favor
+Married	66-75	(3)Bachelor	Male	Protestant	No	Oppose
+Married	36-45	(1)High School	Female	None	No	Oppose
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Divorced	56-65	(1)High School	Female	Buddhism	Yes	Oppose
+Divorced	36-45	(2)Jr. College	Female	None	Yes	Favor
+Never Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Divorced	66-75	(1)High School	Female	Protestant	No	Favor
+Never Married	26-35	(3)Bachelor	Male	None	Yes	Oppose
+Never Married	18-25	(3)Bachelor	Female	Catholic	No	Favor
+Married	36-45	(4)Graduate	Male	Protestant	No	Favor
+Never Married	26-35	(1)High School	Male	None	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	56-65	(1)High School	Female	Protestant	Yes	Favor
+Married	56-65	(3)Bachelor	Female	None	No	Favor
+Married	46-55	(1)High School	Male	Catholic	Yes	Favor
+Separated	36-45	(1)High School	Female	Catholic	Yes	Favor
+Married	46-55	(1)High School	Male	Christian	No	Oppose
+Never Married	36-45	(3)Bachelor	Male	Protestant	No	Favor
+Married	46-55	(1)High School	Male	Catholic	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Never Married	26-35	(3)Bachelor	Female	Catholic	No	Oppose
+Married	46-55	(0) < High School	Male	Protestant	Yes	Favor
+Divorced	56-65	(1)High School	Female	Christian	No	Favor
+Divorced	56-65	(2)Jr. College	Male	Catholic	Yes	Favor
+Separated	26-35	(1)High School	Male	Protestant	No	Oppose
+Married	46-55	(4)Graduate	Female	None	No	Oppose
+Divorced	56-65	(2)Jr. College	Female	Protestant	Yes	Favor
+Married	76-82	(3)Bachelor	Female	Protestant	Refused	Favor
+Never Married	26-35	(0) < High School	Male	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	None	No	Oppose
+Never Married	26-35	(1)High School	Male	Christian	No	Oppose
+Married	26-35	(4)Graduate	Male	Catholic	No	Favor
+Married	26-35	(3)Bachelor	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Female	Protestant	Refused	Oppose
+Never Married	82 +	(2)Jr. College	Female	Protestant	Yes	Favor
+Widowed	46-55	(0) < High School	Female	Catholic	No	Oppose
+Never Married	46-55	(1)High School	Male	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	Christian	No	Oppose
+Divorced	56-65	(4)Graduate	Male	None	No	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(3)Bachelor	Male	Catholic	No	Favor
+Married	46-55	(1)High School	Male	Protestant	No	Favor
+Widowed	76-82	(1)High School	Female	Protestant	No	Favor
+Divorced	26-35	(1)High School	Male	None	No	Favor
+Never Married	26-35	(1)High School	Male	None	No	Favor
+Married	26-35	(1)High School	Male	Catholic	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Male	None	Yes	Favor
+Never Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Never Married	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Never Married	36-45	(0) < High School	Male	Protestant	Yes	Favor
+Widowed	56-65	(1)High School	Female	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	No	Favor
+Married	26-35	(0) < High School	Female	None	No	Oppose
+Divorced	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	76-82	(0) < High School	Female	Protestant	Yes	Oppose
+Divorced	46-55	(1)High School	Male	Catholic	Yes	Oppose
+Never Married	36-45	(1)High School	Female	Catholic	No	Oppose
+Married	26-35	(1)High School	Female	Catholic	No	Favor
+Never Married	18-25	(0) < High School	Male	Catholic	No	Oppose
+Married	56-65	(3)Bachelor	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	None	Yes	Favor
+Never Married	36-45	(1)High School	Male	Catholic	No	Favor
+Divorced	56-65	(1)High School	Male	Protestant	Yes	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	Christian	No	Favor
+Separated	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	Refused	Favor
+Married	56-65	(1)High School	Female	Protestant	Yes	Oppose
+Married	56-65	(1)High School	Female	Catholic	No	Favor
+Never Married	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Married	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	36-45	(0) < High School	Female	Catholic	Yes	Favor
+Never Married	26-35	(3)Bachelor	Female	Protestant	No	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Female	Catholic	No	Favor
+Married	26-35	(4)Graduate	Female	Protestant	No	Favor
+Married	36-45	(0) < High School	Male	Catholic	No	Favor
+Married	36-45	(0) < High School	Female	Protestant	No	Oppose
+Separated	26-35	(3)Bachelor	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	None	Yes	Favor
+Married	82 +	(1)High School	Female	Catholic	Yes	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Never Married	26-35	(2)Jr. College	Female	Buddhism	No	Favor
+Never Married	46-55	(3)Bachelor	Male	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Female	Christian	No	Favor
+Married	46-55	(3)Bachelor	Male	Catholic	Yes	Favor
+Married	46-55	(4)Graduate	Male	Protestant	Yes	Favor
+Divorced	76-82	(4)Graduate	Male	Protestant	No	Oppose
+Married	26-35	(1)High School	Male	Catholic	No	Favor
+Divorced	66-75	(1)High School	Male	None	No	Favor
+Divorced	66-75	(1)High School	Female	Protestant	No	Favor
+Married	26-35	(0) < High School	Female	Catholic	No	Oppose
+Married	56-65	(1)High School	Male	Protestant	No	Favor
+Never Married	26-35	(0) < High School	Male	Catholic	No	Oppose
+Separated	56-65	(1)High School	Female	Catholic	No	Favor
+Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	66-75	(1)High School	Male	None	Yes	Favor
+Never Married	26-35	(4)Graduate	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	46-55	(1)High School	Female	None	No	Oppose
+Divorced	46-55	(3)Bachelor	Male	Protestant	Yes	Favor
+Married	26-35	(4)Graduate	Male	None	No	Oppose
+Widowed	56-65	(1)High School	Female	Protestant	Yes	Favor
+Married	66-75	(1)High School	Female	Protestant	No	Favor
+Never Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(1)High School	Male	None	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(4)Graduate	Female	Catholic	No	Favor
+Married	56-65	(3)Bachelor	Male	None	No	Oppose
+Divorced	36-45	(0) < High School	Male	None	Yes	Favor
+Married	36-45	(4)Graduate	Male	Protestant	No	Favor
+Separated	46-55	(1)High School	Female	Protestant	No	Oppose
+Never Married	18-25	(4)Graduate	Female	Catholic	No	Favor
+Separated	26-35	(1)High School	Male	Catholic	No	Favor
+Never Married	18-25	(3)Bachelor	Female	Jewish	No	Oppose
+Never Married	18-25	(0) < High School	Female	Catholic	No	Oppose
+Married	26-35	(0) < High School	Male	Protestant	No	Oppose
+Divorced	56-65	(1)High School	Male	Christian	Yes	Favor
+Married	18-25	(2)Jr. College	Male	Catholic	Yes	Favor
+Married	46-55	(3)Bachelor	Male	Protestant	No	Favor
+Divorced	46-55	(4)Graduate	Male	None	No	Oppose
+Married	56-65	(1)High School	Male	Protestant	No	Oppose
+Never Married	18-25	(4)Graduate	Male	None	No	Oppose
+Married	36-45	(1)High School	Female	Catholic	No	Oppose
+Married	36-45	(1)High School	Female	Christian	Yes	Favor
+Never Married	26-35	(1)High School	Female	None	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	Yes	Oppose
+Widowed	46-55	(0) < High School	Male	Protestant	No	Oppose
+Never Married	36-45	(3)Bachelor	Male	Protestant	Refused	Favor
+Never Married	18-25	(4)Graduate	Male	Buddhism	No	Oppose
+Divorced	36-45	(1)High School	Female	Christian	Yes	Favor
+Divorced	66-75	(1)High School	Female	None	No	Favor
+Never Married	26-35	(2)Jr. College	Female	None	No	Oppose
+Married	26-35	(1)High School	Male	Other	No	Oppose
+Never Married	46-55	(1)High School	Female	Catholic	Yes	Favor
+Married	46-55	(3)Bachelor	Female	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Female	Catholic	No	Oppose
+Married	46-55	(1)High School	Female	None	Yes	Favor
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Married	56-65	(1)High School	Female	Catholic	No	Oppose
+Widowed	76-82	(1)High School	Female	Protestant	No	Favor
+Never Married	18-25	(4)Graduate	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Male	None	No	Oppose
+Never Married	18-25	(1)High School	Male	Protestant	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	No	Favor
+Never Married	18-25	(3)Bachelor	Female	Protestant	No	Oppose
+Widowed	82 +	(0) < High School	Male	Protestant	Refused	Favor
+Never Married	26-35	(4)Graduate	Male	Jewish	Yes	Favor
+Divorced	36-45	(1)High School	Male	Protestant	Yes	Favor
+Divorced	56-65	(1)High School	Female	Christian	No	Oppose
+Divorced	26-35	(1)High School	Male	Protestant	Yes	Favor
+Never Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Never Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(0) < High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	Jewish	No	Favor
+Widowed	46-55	(1)High School	Female	Protestant	No	Favor
+Married	56-65	(1)High School	Male	Catholic	Yes	Favor
+Widowed	82 +	(1)High School	Male	Protestant	Yes	Oppose
+Married	46-55	(0) < High School	Female	None	No	Favor
+Married	46-55	(2)Jr. College	Female	Christian	No	Favor
+Married	46-55	(1)High School	Male	Protestant	No	Favor
+Divorced	36-45	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(0) < High School	Male	Protestant	Refused	Favor
+Married	46-55	(1)High School	Male	None	Yes	Favor
+Married	26-35	(2)Jr. College	Female	Catholic	No	Favor
+Divorced	26-35	(1)High School	Female	None	Yes	Favor
+Married	18-25	(2)Jr. College	Female	Other	Yes	Favor
+Never Married	18-25	(1)High School	Male	Catholic	No	Favor
+Married	46-55	(1)High School	Male	Protestant	No	Favor
+Never Married	46-55	(1)High School	Female	Catholic	Yes	Oppose
+Divorced	46-55	(0) < High School	Male	Catholic	Yes	Favor
+Never Married	46-55	(3)Bachelor	Male	Protestant	No	Favor
+Never Married	46-55	(1)High School	Female	None	No	Favor
+Divorced	26-35	(4)Graduate	Male	Catholic	No	Oppose
+Married	56-65	(0) < High School	Male	Catholic	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(1)High School	Female	None	Yes	Favor
+Divorced	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Catholic	No	Favor
+Married	26-35	(4)Graduate	Female	None	No	Oppose
+Married	18-25	(3)Bachelor	Female	Protestant	No	Oppose
+Never Married	46-55	(1)High School	Female	Protestant	No	Favor
+Divorced	56-65	(1)High School	Male	None	Yes	Favor
+Married	36-45	(4)Graduate	Male	Protestant	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	Refused	Favor
+Widowed	82 +	(3)Bachelor	Female	None	Yes	Favor
+Married	26-35	(3)Bachelor	Female	Jewish	Yes	Favor
+Never Married	36-45	(2)Jr. College	Male	Catholic	Yes	Favor
+Married	46-55	(0) < High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	Catholic	No	Oppose
+Widowed	82 +	(0) < High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(3)Bachelor	Male	Catholic	No	Favor
+Never Married	18-25	(3)Bachelor	Female	Catholic	No	Favor
+Married	46-55	(1)High School	Male	None	No	Favor
+Never Married	26-35	(1)High School	Male	Protestant	Refused	Favor
+Separated	46-55	(3)Bachelor	Female	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Divorced	36-45	(4)Graduate	Male	Protestant	Yes	Favor
+Married	56-65	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(4)Graduate	Male	Catholic	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	66-75	(0) < High School	Female	Catholic	No	Oppose
+Never Married	56-65	(3)Bachelor	Male	Protestant	Yes	Oppose
+Separated	18-25	(0) < High School	Female	None	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(4)Graduate	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Separated	36-45	(4)Graduate	Male	Catholic	Yes	Favor
+Widowed	56-65	(1)High School	Male	None	Yes	Favor
+Married	26-35	(1)High School	Male	Other	No	Favor
+Married	56-65	(1)High School	Male	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Female	Other	No	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(0) < High School	Female	None	No	Favor
+Divorced	66-75	(0) < High School	Male	Catholic	Yes	Favor
+Divorced	36-45	(1)High School	Male	Christian	No	Favor
+Never Married	26-35	(1)High School	Male	None	No	Oppose
+Married	26-35	(0) < High School	Female	Catholic	No	Oppose
+Married	26-35	(1)High School	Male	Catholic	No	Favor
+Never Married	36-45	(3)Bachelor	Male	Catholic	No	Oppose
+Married	46-55	(0) < High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(4)Graduate	Female	None	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	56-65	(1)High School	Male	Protestant	Yes	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	18-25	(1)High School	Female	Catholic	No	Favor
+Divorced	36-45	(3)Bachelor	Female	Catholic	No	Oppose
+Never Married	36-45	(4)Graduate	Male	Protestant	No	Favor
+Married	26-35	(2)Jr. College	Male	None	Yes	Favor
+Never Married	18-25	(1)High School	Male	Catholic	No	Favor
+Divorced	26-35	(0) < High School	Male	None	No	Favor
+Married	36-45	(3)Bachelor	Male	None	No	Favor
+Divorced	46-55	(1)High School	Male	Protestant	Yes	Favor
+Divorced	36-45	(1)High School	Female	Catholic	Yes	Oppose
+Widowed	66-75	(3)Bachelor	Female	Catholic	Yes	Favor
+Married	26-35	(3)Bachelor	Female	Catholic	No	Favor
+Married	56-65	(1)High School	Female	Protestant	No	Favor
+Divorced	56-65	(1)High School	Female	Protestant	No	Oppose
+Married	66-75	(4)Graduate	Male	Protestant	Yes	Oppose
+Never Married	18-25	(4)Graduate	Female	None	No	Oppose
+Married	26-35	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(2)Jr. College	Female	Catholic	Yes	Favor
+Married	26-35	(3)Bachelor	Female	Protestant	Yes	Favor
+Never Married	26-35	(3)Bachelor	Male	Protestant	Refused	Oppose
+Married	36-45	(1)High School	Male	Protestant	Refused	Favor
+Never Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Married	36-45	(3)Bachelor	Female	None	Yes	Favor
+Never Married	46-55	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(0) < High School	Female	Protestant	No	Favor
+Never Married	18-25	(4)Graduate	Female	None	No	Favor
+Married	46-55	(4)Graduate	Female	Catholic	No	Favor
+Never Married	56-65	(1)High School	Female	None	No	Oppose
+Married	66-75	(4)Graduate	Female	Protestant	Yes	Oppose
+Never Married	36-45	(0) < High School	Male	Protestant	No	Favor
+Married	46-55	(4)Graduate	Female	Christian	No	Favor
+Married	56-65	(1)High School	Female	Catholic	Yes	Favor
+Never Married	18-25	(1)High School	Male	Protestant	No	Favor
+Never Married	66-75	(1)High School	Male	Protestant	No	Favor
+Divorced	56-65	(1)High School	Male	None	No	Oppose
+Never Married	26-35	(1)High School	Female	Catholic	No	Favor
+Married	36-45	(1)High School	Female	None	No	Favor
+Married	66-75	(0) < High School	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Female	Protestant	No	Oppose
+Never Married	18-25	(2)Jr. College	Male	None	No	Favor
+Never Married	18-25	(0) < High School	Male	Catholic	No	Favor
+Never Married	18-25	(2)Jr. College	Male	None	Yes	Favor
+Married	56-65	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(1)High School	Female	Protestant	Yes	Favor
+Never Married	26-35	(1)High School	Male	Protestant	Yes	Oppose
+Never Married	36-45	(2)Jr. College	Male	Other	No	Oppose
+Married	76-82	(4)Graduate	Female	None	Yes	Favor
+Never Married	18-25	(1)High School	Male	Protestant	No	Favor
+Separated	36-45	(1)High School	Female	None	No	Favor
+Married	46-55	(2)Jr. College	Female	None	No	Favor
+Never Married	18-25	(0) < High School	Female	Catholic	No	Oppose
+Never Married	36-45	(1)High School	Male	Catholic	No	Oppose
+Married	46-55	(1)High School	Male	Protestant	Yes	Favor
+Never Married	26-35	(2)Jr. College	Male	None	Yes	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Female	None	No	Favor
+Never Married	18-25	(1)High School	Female	Protestant	No	Favor
+Married	46-55	(0) < High School	Female	Protestant	Yes	Favor
+Divorced	56-65	(3)Bachelor	Male	None	No	Oppose
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Married	36-45	(1)High School	Male	Catholic	Yes	Oppose
+Married	76-82	(1)High School	Male	Protestant	Refused	Favor
+Divorced	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	46-55	(0) < High School	Female	Protestant	No	Oppose
+Married	66-75	(1)High School	Female	Protestant	No	Favor
+Married	26-35	(1)High School	Male	None	No	Oppose
+Married	46-55	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(1)High School	Male	Protestant	No	Oppose
+Divorced	36-45	(3)Bachelor	Male	None	No	Oppose
+Never Married	36-45	(1)High School	Male	Protestant	No	Oppose
+Married	36-45	(1)High School	Male	Protestant	No	Favor
+Married	46-55	(1)High School	Female	Christian	No	Oppose
+Divorced	46-55	(1)High School	Male	Jewish	Yes	Oppose
+Married	36-45	(1)High School	Female	None	No	Oppose
+Married	36-45	(1)High School	Female	None	No	Favor
+Never Married	36-45	(1)High School	Male	Catholic	No	Favor
+Married	26-35	(3)Bachelor	Male	Catholic	No	Favor
+Married	46-55	(1)High School	Male	Catholic	No	Favor
+Never Married	36-45	(3)Bachelor	Male	Protestant	Refused	Favor
+Divorced	56-65	(4)Graduate	Female	None	Yes	Favor
+Married	26-35	(1)High School	Male	Protestant	No	Favor
+Married	46-55	(3)Bachelor	Male	None	No	Favor
+Never Married	36-45	(1)High School	Male	Protestant	No	Favor
+Divorced	82 +	(2)Jr. College	Male	Protestant	Yes	Oppose
+Married	26-35	(1)High School	Male	Protestant	Yes	Favor
+Married	36-45	(2)Jr. College	Female	None	No	Favor
+Married	66-75	(1)High School	Female	Protestant	No	Favor
+Married	26-35	(3)Bachelor	Male	Catholic	Yes	Favor
+Never Married	18-25	(4)Graduate	Male	Christian	No	Oppose
+Never Married	46-55	(1)High School	Male	Protestant	Yes	Oppose
+Married	56-65	(2)Jr. College	Female	None	No	Oppose
+Divorced	46-55	(1)High School	Male	Protestant	No	Favor
+Never Married	18-25	(3)Bachelor	Male	Protestant	No	Oppose
+Married	26-35	(1)High School	Female	Catholic	Yes	Oppose
+Widowed	56-65	(4)Graduate	Male	None	No	Favor
+Married	36-45	(1)High School	Female	Christian	No	Favor
+Married	56-65	(1)High School	Female	None	No	Favor
+Divorced	36-45	(1)High School	Male	Protestant	Yes	Favor
+Married	46-55	(1)High School	Male	Protestant	No	Favor
+Married	36-45	(1)High School	Male	Orthodox-Christian	No	Favor
+Married	36-45	(1)High School	Female	Protestant	No	Favor
+Divorced	66-75	(2)Jr. College	Male	Protestant	No	Favor
+Married	56-65	(1)High School	Male	None	No	Favor
+Married	36-45	(0) < High School	Female	Protestant	No	Favor
+Married	26-35	(4)Graduate	Female	None	No	Oppose
+Never Married	46-55	(4)Graduate	Male	Catholic	Yes	Favor
+Married	36-45	(1)High School	Male	None	No	Favor
+Separated	36-45	(1)High School	Female	Protestant	Yes	Favor
+Married	36-45	(0) < High School	Female	Protestant	No	Favor
+Married	56-65	(1)High School	Female	Protestant	Refused	Favor
+Never Married	36-45	(1)High School	Male	Catholic	Yes	Favor
+Never Married	18-25	(0) < High School	Female	Protestant	No	Favor
+Divorced	36-45	(1)High School	Male	Protestant	No	Favor
+Married	56-65	(3)Bachelor	Male	Catholic	Yes	Oppose
+Divorced	66-75	(4)Graduate	Female	Protestant	No	Oppose
+Never Married	18-25	(1)High School	Male	Jewish	No	Favor
+Separated	36-45	(0) < High School	Male	Protestant	No	Favor
+Married	46-55	(2)Jr. College	Female	Protestant	Refused	Favor
+Married	26-35	(3)Bachelor	Male	None	No	Oppose
+Divorced	36-45	(1)High School	Male	Catholic	Yes	Favor
+Never Married	26-35	(1)High School	Male	None	Yes	Oppose
+Married	26-35	(4)Graduate	Female	Protestant	Yes	Favor
+Widowed	76-82	(0) < High School	Female	Protestant	No	Oppose
+Never Married	46-55	(0) < High School	Male	Protestant	No	Favor
+Married	76-82	(0) < High School	Male	Catholic	No	Favor
+Married	26-35	(3)Bachelor	Female	Catholic	No	Favor
+Widowed	66-75	(0) < High School	Male	None	No	Favor
+Married	46-55	(1)High School	Female	None	No	Favor
+Never Married	26-35	(1)High School	Female	Protestant	No	Favor

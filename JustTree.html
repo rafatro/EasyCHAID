@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Easy CHAID</title>
+	<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript">
+		google.charts.load('current', {packages:["orgchart"]});
+		google.charts.setOnLoadCallback(drawChart);
+		function drawChart() {
+			var data = new google.visualization.DataTable();
+			data.addColumn('string', 'Name');
+			data.addColumn('string', 'Manager');
+			data.addColumn('string', 'ToolTip');
+			var html_text_for_node = '';
+			for (var node = 0; node < tree.length; node++) {
+				if (node !== 0) {
+					html_text_for_node = tree[node].merged_categories.join(', ') + '<br>';
+				}
+				html_text_for_node += "<b><span style='font-size: 14px;display: inline-block;white-space:nowrap;'>Node " + node + "</span></b><br>";
+				html_text_for_node += "<table width='100%' border='1' cellspacing='0' cellpadding='2' style='border-collapse: collapse;'>";
+				for (ct = 0; ct < tree[node].prediction.length; ct++) {
+					html_text_for_node += '<tr><td align="left">' + cat[col_dep][ct] + '</td><td align="right">' + tree[node].prediction[ct] + '</td><td align="right">' + Math.round(tree[node].prediction[ct]/tree[node].size*1000)/10 + '&#37;</td></tr>';
+				}
+				html_text_for_node += '</table>';
+				if (tree[node].split_variable_name) {
+					html_text_for_node += tree[node].split_variable_name + '<br>p-value: ' + (Math.round(tree[node].split_pv * 10000) / 10000).toFixed(4);
+				}
+				data.addRows([
+					[{
+						v: node.toString(),
+						f: html_text_for_node
+					}, node === 0 ? '' : tree[node].parent_node.toString(), '']
+				]);
+			}
+			// Create the chart.
+			var chart = new google.visualization.OrgChart(document.getElementById('JustTree'));
+			var size = 'small';
+			chart.draw(data, {
+				allowHtml: true,
+				size: size,
+				nodeClass: 'nodeClass',
+				selectedNodeClass: 'nodeClassSel'
+			});
+		}
+	</script>
+	<style>
+		body {
+			background-color: #FFF;
+			font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+			font-size: 15px;
+			color: #353535;
+		}
+		
+		.tree {
+			width: 760px;
+			overflow-x: scroll;
+		}
+		
+		.tree table {
+			border-collapse: separate;
+			max-width: 760px;
+		}
+		
+		.nodeClass { /* used for the tree's boxes, set by javascript */
+			font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+			vertical-align:top;
+			background-color: #EEF;
+			border-style: solid;
+			border-width: 1px;
+			border-color: #38d;
+		}
+		
+		.nodeClassSel { /* used for the tree's boxes, set by javascript */
+			font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+			vertical-align:top;
+			background-color: #FF9;
+			border-style: solid;
+			border-width: 1px;
+			border-color: #CC3;
+		}
+		
+		td {
+			border-color: #CCC;
+		}
+	</style>
+
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
+	<div id="JustTree"> </div>
+</body>
+
+</html>

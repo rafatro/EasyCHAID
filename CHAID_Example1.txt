@@ -1,0 +1,1001 @@
+Gender	Ager	Empstat	Educr	Marstat	Vote
+male	65+	yes	Post Coll	divorced	Bush
+male	45-54	yes	College	married	Bush
+female	55-64	yes	College	married	Gore
+female	55-64	retired	HS	widowed	Gore
+male	45-54	yes	>HS	married	Bush
+female	18-24	no	>HS	never married	Gore
+female	35-44	yes	Post Coll	divorced	Gore
+male	65+	retired	College	widowed	Gore
+female	55-64	no	>HS	widowed	Gore
+female	35-44	yes	College	married	Bush
+female	65+	retired	College	widowed	Bush
+female	18-24	yes	College	never married	Gore
+male	35-44	yes	<HS	divorced	Bush
+female	65+	yes	HS	divorced	Gore
+female	25-34	yes	>HS	married	Gore
+female	65+	no	>HS	married	Gore
+male	45-54	yes	College	divorced	Bush
+female	65+	yes	<HS	widowed	Gore
+female	65+	retired	HS	widowed	Gore
+female	65+	retired	College	widowed	Bush
+male	55-64	retired	HS	married	Bush
+female	25-34	yes	>HS	married	Bush
+male	45-54	yes	>HS	married	Bush
+male	55-64	yes	HS	married	Gore
+male	25-34	yes	HS	never married	Gore
+male	45-54	yes	College	married	Gore
+male	25-34	yes	College	married	Bush
+male	35-44	yes	Post Coll	married	Bush
+female	65+	retired	>HS	married	Bush
+male	35-44	yes	College	married	Gore
+female	55-64	no	>HS	married	Gore
+female	35-44	yes	HS	married	Gore
+male	25-34	yes	>HS	married	Bush
+male	45-54	yes	>HS	married	Bush
+male	35-44	yes	Post Coll	divorced	Bush
+male	35-44	yes	Post Coll	married	Gore
+male	35-44	yes	Post Coll	married	Bush
+female	65+	yes	College	married	Gore
+female	25-34	yes	College	never married	Gore
+female	25-34	yes	College	divorced	Gore
+female	55-64	no	HS	married	Gore
+female	25-34	yes	Post Coll	married	Gore
+male	35-44	yes	>HS	never married	Gore
+male	65+	retired	>HS	married	Bush
+male	45-54	retired	HS	widowed	Gore
+female	65+	retired	>HS	married	Gore
+female	55-64	yes	HS	divorced	Bush
+female	65+	retired	<HS	never married	Gore
+male	65+	yes	<HS	married	Gore
+female	65+	no	>HS	widowed	Bush
+male	18-24	yes	>HS	never married	Gore
+male	35-44	no	HS	never married	Bush
+male	35-44	yes	>HS	married	Gore
+female	65+	retired	HS	widowed	Gore
+male	45-54	yes	College	married	Gore
+female	35-44	yes	Post Coll	divorced	Gore
+male	35-44	yes	HS	married	Bush
+male	65+	retired	HS	widowed	Gore
+female	35-44	yes	College	married	Gore
+male	55-64	yes	Post Coll	married	Bush
+female	55-64	no	>HS	married	Gore
+female	45-54	yes	Post Coll	married	Gore
+female	25-34	no	College	married	Bush
+male	25-34	yes	>HS	married	Bush
+female	25-34	yes	College	never married	Gore
+female	65+	retired	>HS	widowed	Bush
+female	65+	no	HS	widowed	Gore
+female	25-34	no	HS	married	Bush
+female	35-44	yes	HS	married	Gore
+female	35-44	yes	College	NA	Gore
+male	55-64	retired	College	NA	Bush
+male	35-44	yes	HS	divorced	Bush
+female	35-44	yes	College	divorced	Gore
+female	45-54	yes	College	divorced	Gore
+female	65+	retired	HS	widowed	Gore
+male	45-54	yes	>HS	married	Bush
+female	65+	yes	Post Coll	widowed	Bush
+male	35-44	yes	>HS	married	Bush
+female	55-64	yes	Post Coll	never married	Gore
+male	25-34	yes	>HS	divorced	Bush
+male	65+	retired	<HS	widowed	Bush
+male	35-44	yes	>HS	married	Gore
+female	35-44	yes	College	never married	Bush
+female	45-54	yes	HS	married	Bush
+male	45-54	yes	>HS	married	Gore
+male	45-54	yes	College	never married	Bush
+male	18-24	yes	College	never married	Bush
+male	65+	retired	College	married	Bush
+female	65+	retired	College	married	Gore
+female	25-34	no	College	married	Bush
+male	45-54	yes	College	married	Bush
+female	45-54	yes	HS	never married	Gore
+male	25-34	yes	Post Coll	married	Bush
+female	45-54	yes	>HS	married	Gore
+male	25-34	yes	College	married	Bush
+male	45-54	yes	>HS	married	Gore
+female	45-54	yes	Post Coll	married	Bush
+male	65+	retired	College	widowed	Bush
+male	55-64	retired	College	NA	Bush
+male	25-34	yes	College	married	Bush
+male	45-54	no	NA	NA	Bush
+female	65+	retired	HS	widowed	Gore
+male	35-44	yes	Post Coll	never married	Gore
+male	65+	yes	College	married	Bush
+female	35-44	no	>HS	married	Gore
+male	45-54	yes	>HS	married	Gore
+male	25-34	yes	HS	married	Bush
+female	35-44	yes	>HS	married	Gore
+female	45-54	yes	HS	married	Bush
+male	65+	retired	>HS	married	Bush
+male	55-64	yes	>HS	divorced	Gore
+female	65+	retired	>HS	divorced	Gore
+male	35-44	yes	HS	divorced	Gore
+male	65+	retired	College	married	Bush
+female	35-44	no	HS	married	Gore
+female	45-54	yes	College	married	Bush
+male	65+	yes	Post Coll	divorced	Gore
+male	45-54	yes	>HS	married	Bush
+male	35-44	yes	>HS	married	Gore
+female	35-44	yes	>HS	married	Gore
+female	35-44	yes	College	married	Gore
+male	45-54	yes	College	married	Bush
+female	35-44	yes	HS	married	Gore
+male	35-44	yes	HS	married	Bush
+female	35-44	yes	<HS	married	Bush
+female	NA	no	College	married	Gore
+male	65+	retired	College	married	Bush
+female	65+	retired	>HS	divorced	Bush
+female	45-54	yes	Post Coll	married	Gore
+male	35-44	yes	Post Coll	never married	Bush
+male	35-44	yes	Post Coll	married	Bush
+female	35-44	yes	>HS	married	Gore
+male	65+	retired	<HS	married	Gore
+male	55-64	no	>HS	married	Bush
+male	25-34	yes	Post Coll	married	Bush
+male	45-54	yes	College	married	Gore
+male	45-54	yes	>HS	married	Bush
+male	45-54	yes	>HS	married	Gore
+female	55-64	no	College	widowed	Bush
+female	45-54	yes	HS	never married	Bush
+female	25-34	yes	Post Coll	married	Gore
+female	25-34	yes	College	never married	Gore
+female	25-34	yes	Post Coll	never married	Bush
+male	55-64	yes	Post Coll	married	Bush
+female	45-54	yes	>HS	married	Gore
+female	65+	retired	>HS	widowed	Gore
+female	35-44	yes	College	divorced	Gore
+female	45-54	yes	>HS	married	Gore
+female	25-34	yes	Post Coll	married	Bush
+female	55-64	no	HS	widowed	Bush
+female	55-64	no	<HS	widowed	Gore
+male	45-54	yes	Post Coll	married	Gore
+male	25-34	yes	>HS	divorced	Bush
+male	25-34	yes	>HS	married	Bush
+female	35-44	yes	College	married	Bush
+male	25-34	yes	College	married	Bush
+male	35-44	yes	>HS	married	Bush
+female	25-34	yes	College	NA	Gore
+female	65+	retired	HS	married	Bush
+male	45-54	yes	Post Coll	married	Bush
+male	45-54	yes	Post Coll	married	Gore
+male	35-44	yes	Post Coll	married	Gore
+male	45-54	retired	>HS	married	Bush
+female	45-54	yes	College	divorced	Gore
+female	45-54	retired	<HS	married	Gore
+female	35-44	yes	Post Coll	married	Bush
+male	35-44	yes	>HS	married	Gore
+male	65+	retired	<HS	married	Gore
+female	25-34	no	HS	NA	Gore
+female	55-64	retired	HS	married	Gore
+female	65+	no	>HS	married	Bush
+male	18-24	no	College	never married	Gore
+female	25-34	yes	>HS	married	Gore
+male	55-64	yes	<HS	divorced	Bush
+female	35-44	no	>HS	married	Bush
+male	35-44	no	College	married	Gore
+female	25-34	no	College	married	Bush
+male	35-44	yes	>HS	married	Gore
+female	55-64	yes	College	married	Bush
+male	55-64	no	>HS	married	Bush
+male	35-44	yes	Post Coll	never married	Gore
+male	35-44	yes	>HS	married	Bush
+male	65+	retired	>HS	widowed	Bush
+female	65+	retired	HS	divorced	Bush
+female	25-34	yes	College	married	Gore
+female	45-54	yes	HS	married	Bush
+male	45-54	yes	>HS	divorced	Gore
+male	25-34	yes	College	married	Bush
+male	45-54	yes	Post Coll	married	Gore
+female	45-54	yes	Post Coll	married	Gore
+female	65+	retired	College	widowed	Bush
+female	45-54	yes	HS	married	Gore
+male	45-54	yes	>HS	married	Bush
+female	45-54	yes	Post Coll	never married	Gore
+male	45-54	yes	HS	divorced	Bush
+female	65+	no	<HS	widowed	Gore
+male	45-54	yes	College	widowed	Gore
+female	55-64	retired	College	married	Gore
+male	55-64	yes	College	married	Bush
+male	45-54	yes	>HS	divorced	Gore
+female	65+	retired	College	widowed	Bush
+female	45-54	yes	>HS	divorced	Bush
+female	25-34	no	College	married	Bush
+male	35-44	yes	Post Coll	never married	Bush
+male	55-64	no	>HS	married	Bush
+female	65+	retired	<HS	widowed	Bush
+female	35-44	yes	HS	married	Gore
+male	25-34	yes	HS	never married	Gore
+female	25-34	no	HS	married	Gore
+female	65+	no	HS	widowed	Bush
+male	65+	retired	College	married	Bush
+male	35-44	yes	>HS	married	Bush
+female	65+	retired	>HS	married	Bush
+female	65+	retired	HS	married	Bush
+female	25-34	no	<HS	never married	Gore
+male	25-34	yes	College	married	Bush
+female	55-64	retired	>HS	widowed	Gore
+female	45-54	yes	HS	married	Bush
+male	65+	retired	Post Coll	married	Gore
+female	35-44	no	HS	married	Bush
+female	55-64	retired	>HS	married	Gore
+female	65+	retired	HS	widowed	Bush
+female	55-64	yes	>HS	divorced	Gore
+female	55-64	yes	College	divorced	Gore
+female	18-24	yes	>HS	never married	Gore
+female	25-34	yes	College	married	Gore
+female	45-54	yes	Post Coll	never married	Gore
+male	65+	yes	HS	married	Bush
+female	45-54	yes	HS	married	Bush
+male	55-64	yes	Post Coll	married	Bush
+male	65+	retired	College	widowed	Gore
+male	55-64	no	HS	NA	Gore
+female	35-44	yes	>HS	married	Bush
+male	45-54	yes	College	married	Gore
+female	45-54	yes	Post Coll	married	Gore
+female	25-34	yes	Post Coll	never married	Gore
+male	65+	retired	College	married	Bush
+female	35-44	yes	<HS	married	Bush
+male	35-44	yes	>HS	divorced	Gore
+male	18-24	yes	College	never married	Gore
+female	65+	retired	HS	widowed	Gore
+male	35-44	yes	College	never married	Gore
+male	45-54	yes	>HS	married	Gore
+male	35-44	yes	College	divorced	Bush
+female	35-44	no	HS	married	Gore
+female	35-44	yes	>HS	divorced	Gore
+male	25-34	yes	HS	married	Bush
+male	65+	yes	HS	married	Bush
+female	45-54	yes	Post Coll	NA	Gore
+female	35-44	no	>HS	married	Bush
+female	35-44	yes	College	NA	Gore
+female	65+	no	HS	widowed	Gore
+female	25-34	yes	College	NA	Gore
+female	35-44	yes	>HS	married	Gore
+male	35-44	yes	>HS	married	Bush
+female	25-34	yes	College	never married	Bush
+female	65+	retired	HS	widowed	Bush
+male	55-64	yes	Post Coll	married	Bush
+male	35-44	yes	College	divorced	Gore
+female	65+	retired	>HS	never married	Gore
+male	45-54	yes	>HS	married	Gore
+male	35-44	yes	>HS	married	Bush
+female	35-44	yes	>HS	married	Gore
+female	35-44	yes	College	NA	Gore
+male	45-54	yes	College	divorced	Bush
+male	45-54	yes	HS	married	Bush
+male	45-54	yes	College	married	Bush
+female	18-24	yes	College	never married	Gore
+male	35-44	yes	College	married	Gore
+male	45-54	no	HS	never married	Gore
+female	35-44	yes	College	married	Gore
+male	25-34	no	College	married	Gore
+female	45-54	yes	College	never married	Gore
+male	55-64	yes	Post Coll	married	Gore
+male	35-44	yes	College	married	Gore
+female	18-24	yes	>HS	never married	Gore
+male	65+	yes	College	married	Bush
+male	18-24	yes	College	never married	Bush
+male	65+	retired	College	married	Bush
+male	65+	retired	College	married	Gore
+female	25-34	no	College	married	Bush
+female	65+	retired	>HS	widowed	Bush
+female	65+	retired	>HS	married	Bush
+female	65+	retired	HS	widowed	Gore
+female	35-44	yes	College	married	Bush
+female	25-34	yes	College	never married	Gore
+male	55-64	retired	College	married	Bush
+male	45-54	yes	College	married	Bush
+female	65+	retired	HS	widowed	Bush
+male	35-44	yes	College	married	Bush
+female	25-34	yes	College	never married	Bush
+male	25-34	no	College	never married	Gore
+female	35-44	no	College	married	Bush
+female	45-54	no	College	married	Bush
+male	18-24	yes	HS	never married	Gore
+male	45-54	yes	College	married	Bush
+female	35-44	yes	College	married	Bush
+male	55-64	yes	College	married	Bush
+female	55-64	yes	HS	widowed	Bush
+female	55-64	yes	College	married	Bush
+female	35-44	yes	College	never married	Gore
+female	65+	no	>HS	widowed	Bush
+female	18-24	yes	College	never married	Gore
+male	35-44	no	College	married	Gore
+female	65+	retired	HS	widowed	Gore
+female	25-34	no	>HS	never married	Gore
+female	25-34	yes	Post Coll	married	Bush
+male	45-54	yes	>HS	married	Bush
+female	45-54	yes	>HS	married	Gore
+male	25-34	yes	>HS	married	Bush
+female	65+	no	<HS	divorced	Gore
+male	35-44	yes	HS	divorced	Gore
+male	35-44	yes	HS	NA	Gore
+female	55-64	retired	HS	married	Bush
+female	45-54	yes	College	married	Bush
+male	65+	retired	<HS	widowed	Bush
+female	65+	retired	College	widowed	Gore
+female	65+	retired	HS	widowed	Gore
+female	65+	retired	HS	widowed	Gore
+female	25-34	yes	>HS	never married	Gore
+male	35-44	no	HS	married	Gore
+male	25-34	yes	College	never married	Gore
+male	35-44	yes	College	married	Gore
+male	55-64	retired	Post Coll	married	Gore
+female	35-44	yes	College	married	Bush
+female	45-54	yes	>HS	married	Bush
+female	18-24	yes	HS	never married	Gore
+female	55-64	retired	Post Coll	never married	Bush
+female	65+	no	HS	widowed	Bush
+male	35-44	yes	HS	never married	Bush
+female	35-44	yes	College	married	Bush
+female	35-44	yes	>HS	married	Bush
+female	25-34	no	HS	never married	Bush
+male	35-44	yes	HS	married	Gore
+female	25-34	yes	College	divorced	Gore
+male	55-64	retired	>HS	never married	Bush
+male	25-34	no	HS	never married	Gore
+male	35-44	yes	HS	NA	Bush
+female	65+	retired	>HS	married	Gore
+female	45-54	yes	>HS	married	Bush
+male	25-34	yes	HS	married	Bush
+male	45-54	yes	>HS	married	Gore
+female	45-54	yes	Post Coll	married	Bush
+male	65+	retired	College	married	Bush
+female	35-44	yes	>HS	married	Gore
+male	55-64	yes	>HS	never married	Bush
+female	65+	retired	HS	married	Gore
+female	65+	retired	HS	divorced	Gore
+male	55-64	yes	>HS	divorced	Gore
+female	45-54	yes	Post Coll	divorced	Gore
+female	45-54	yes	>HS	married	Gore
+female	45-54	yes	College	never married	Bush
+female	18-24	yes	HS	never married	Gore
+male	55-64	yes	>HS	divorced	Gore
+female	18-24	yes	HS	never married	Gore
+female	25-34	yes	Post Coll	never married	Bush
+male	45-54	no	NA	NA	Bush
+female	55-64	no	>HS	married	Gore
+female	45-54	yes	HS	divorced	Gore
+female	18-24	yes	College	never married	Gore
+female	35-44	yes	>HS	married	Bush
+female	45-54	retired	<HS	married	Gore
+female	35-44	yes	College	widowed	Gore
+female	35-44	yes	HS	married	Bush
+male	35-44	yes	College	married	Bush
+female	45-54	yes	HS	married	Gore
+female	55-64	no	<HS	married	Bush
+female	65+	retired	College	married	Gore
+female	25-34	yes	College	NA	Gore
+female	55-64	yes	Post Coll	never married	Gore
+female	65+	retired	>HS	never married	Gore
+female	55-64	no	<HS	married	Bush
+male	55-64	yes	College	divorced	Gore
+male	25-34	yes	Post Coll	never married	Bush
+male	55-64	retired	College	married	Bush
+male	45-54	yes	>HS	married	Gore
+male	35-44	yes	Post Coll	married	Gore
+female	35-44	yes	>HS	married	Bush
+female	55-64	no	>HS	married	Gore
+male	55-64	yes	Post Coll	married	Gore
+female	35-44	yes	>HS	divorced	Gore
+male	35-44	yes	>HS	divorced	Bush
+female	45-54	yes	Post Coll	divorced	Bush
+male	25-34	yes	Post Coll	married	Bush
+female	55-64	no	>HS	married	Gore
+male	45-54	yes	College	married	Bush
+male	55-64	yes	College	divorced	Bush
+female	55-64	no	HS	married	Bush
+male	45-54	retired	HS	widowed	Gore
+female	35-44	yes	Post Coll	married	Bush
+female	25-34	yes	>HS	divorced	Gore
+female	65+	retired	>HS	married	Gore
+male	45-54	yes	>HS	divorced	Bush
+female	55-64	yes	College	married	Bush
+male	45-54	yes	College	married	Gore
+female	35-44	yes	College	married	Bush
+male	45-54	yes	>HS	married	Gore
+male	55-64	yes	>HS	divorced	Bush
+male	45-54	yes	Post Coll	married	Bush
+female	35-44	yes	>HS	married	Gore
+female	65+	no	HS	widowed	Bush
+male	35-44	yes	College	married	Gore
+female	45-54	no	HS	married	Bush
+female	55-64	yes	HS	married	Gore
+female	45-54	yes	HS	married	Gore
+female	55-64	no	Post Coll	married	Bush
+male	55-64	retired	>HS	never married	Gore
+female	65+	no	<HS	widowed	Gore
+male	25-34	yes	>HS	divorced	Bush
+male	18-24	no	College	never married	Gore
+male	45-54	yes	Post Coll	married	Bush
+female	45-54	yes	College	married	Gore
+female	25-34	yes	Post Coll	married	Bush
+female	45-54	no	HS	divorced	Gore
+female	35-44	yes	>HS	married	Gore
+male	65+	retired	<HS	married	Gore
+female	18-24	no	College	never married	Gore
+male	35-44	yes	College	married	Bush
+female	65+	no	>HS	widowed	Gore
+female	65+	no	<HS	married	Gore
+female	35-44	no	>HS	married	Bush
+male	35-44	yes	Post Coll	married	Bush
+male	35-44	yes	>HS	married	Bush
+male	35-44	yes	HS	never married	Bush
+female	25-34	no	<HS	married	Gore
+female	45-54	yes	HS	married	Bush
+female	35-44	yes	College	married	Gore
+male	45-54	yes	College	married	Bush
+male	45-54	yes	HS	divorced	Bush
+male	45-54	yes	Post Coll	married	Bush
+male	65+	retired	HS	married	Gore
+female	25-34	no	>HS	never married	Gore
+female	35-44	yes	College	divorced	Bush
+female	25-34	yes	College	married	Bush
+female	25-34	yes	Post Coll	married	Bush
+male	45-54	yes	College	married	Bush
+male	35-44	yes	>HS	never married	Gore
+female	25-34	yes	>HS	married	Bush
+male	55-64	no	HS	NA	Gore
+female	55-64	no	>HS	married	Gore
+male	35-44	yes	HS	never married	Gore
+female	45-54	yes	>HS	divorced	Bush
+female	65+	retired	>HS	widowed	Bush
+female	18-24	yes	>HS	never married	Bush
+male	35-44	yes	Post Coll	married	Gore
+male	35-44	yes	HS	never married	Bush
+female	65+	retired	>HS	widowed	Gore
+male	35-44	yes	Post Coll	married	Bush
+female	55-64	retired	>HS	married	Gore
+female	45-54	yes	College	divorced	Gore
+male	45-54	yes	HS	divorced	Bush
+female	35-44	yes	HS	married	Gore
+female	55-64	no	<HS	married	Gore
+female	65+	no	>HS	widowed	Gore
+male	65+	retired	College	married	Bush
+female	25-34	no	College	married	Bush
+male	55-64	no	HS	NA	Gore
+male	25-34	yes	College	married	Bush
+female	35-44	no	HS	never married	Gore
+female	65+	no	>HS	married	Bush
+male	45-54	yes	HS	married	Bush
+female	55-64	no	HS	divorced	Gore
+male	25-34	yes	College	never married	Gore
+female	65+	retired	HS	widowed	Gore
+female	65+	retired	HS	widowed	Gore
+female	45-54	yes	College	married	Bush
+male	25-34	yes	College	married	Bush
+female	65+	yes	>HS	divorced	Bush
+male	45-54	yes	>HS	married	Gore
+female	55-64	retired	>HS	married	Bush
+female	55-64	retired	College	married	Bush
+male	65+	retired	College	widowed	Bush
+male	65+	retired	HS	married	Gore
+female	55-64	no	>HS	widowed	Gore
+female	65+	retired	Post Coll	widowed	Bush
+male	18-24	no	>HS	never married	Gore
+female	25-34	yes	>HS	married	Bush
+female	65+	yes	College	widowed	Bush
+male	25-34	yes	>HS	married	Gore
+male	35-44	yes	>HS	married	Gore
+male	65+	retired	College	married	Bush
+male	25-34	yes	>HS	never married	Bush
+male	35-44	yes	HS	married	Gore
+female	65+	no	HS	widowed	Gore
+male	45-54	yes	>HS	married	Gore
+female	55-64	no	>HS	married	Gore
+male	65+	retired	College	married	Bush
+male	45-54	no	HS	never married	Bush
+male	55-64	yes	HS	married	Bush
+male	65+	retired	HS	married	Gore
+male	18-24	yes	College	never married	Gore
+female	65+	retired	<HS	widowed	Gore
+female	55-64	yes	College	married	Bush
+female	25-34	no	College	married	Bush
+female	65+	no	>HS	widowed	Bush
+male	65+	retired	College	married	Bush
+female	25-34	yes	College	never married	Bush
+male	65+	retired	HS	married	Bush
+female	65+	retired	HS	divorced	Gore
+female	55-64	no	HS	married	Gore
+female	55-64	yes	College	married	Bush
+female	25-34	yes	>HS	married	Gore
+male	35-44	yes	College	married	Gore
+male	35-44	yes	HS	married	Gore
+female	35-44	yes	>HS	married	Gore
+female	35-44	no	>HS	married	Gore
+male	35-44	yes	>HS	married	Bush
+male	35-44	yes	College	never married	Bush
+male	55-64	yes	College	married	Gore
+female	45-54	yes	>HS	never married	Gore
+female	55-64	yes	Post Coll	never married	Gore
+female	45-54	yes	>HS	divorced	Gore
+female	35-44	yes	HS	married	Gore
+male	35-44	yes	>HS	divorced	Bush
+female	65+	retired	<HS	widowed	Gore
+female	45-54	yes	>HS	divorced	Bush
+female	45-54	yes	>HS	married	Gore
+male	45-54	yes	College	married	Bush
+female	18-24	yes	>HS	never married	Gore
+female	35-44	yes	HS	married	Gore
+female	65+	no	<HS	married	Gore
+male	35-44	yes	College	never married	Gore
+male	65+	retired	>HS	married	Bush
+male	45-54	yes	>HS	widowed	Gore
+male	65+	retired	>HS	divorced	Gore
+female	45-54	yes	Post Coll	married	Bush
+male	35-44	yes	HS	never married	Bush
+female	45-54	yes	Post Coll	married	Gore
+male	55-64	yes	College	married	Gore
+female	25-34	no	HS	NA	Gore
+male	45-54	yes	>HS	divorced	Bush
+male	45-54	yes	>HS	married	Gore
+male	35-44	yes	HS	married	Gore
+male	55-64	retired	College	divorced	Gore
+female	35-44	no	HS	divorced	Gore
+female	35-44	yes	>HS	married	Gore
+male	25-34	yes	HS	married	Bush
+female	35-44	no	College	married	Bush
+female	35-44	yes	HS	married	Gore
+male	25-34	yes	College	married	Bush
+male	55-64	yes	Post Coll	married	Gore
+male	55-64	retired	>HS	married	Gore
+female	65+	retired	>HS	widowed	Bush
+female	45-54	yes	HS	married	Bush
+male	65+	retired	College	married	Bush
+female	55-64	retired	>HS	married	Bush
+female	25-34	yes	College	married	Gore
+female	65+	retired	HS	married	Bush
+female	65+	retired	<HS	widowed	Gore
+female	35-44	yes	HS	married	Bush
+male	55-64	retired	>HS	never married	Gore
+female	35-44	yes	Post Coll	divorced	Gore
+female	25-34	no	College	married	Bush
+male	35-44	yes	HS	NA	Bush
+female	18-24	yes	>HS	married	Bush
+female	35-44	yes	College	married	Gore
+male	65+	retired	HS	widowed	Bush
+female	25-34	yes	<HS	married	Bush
+female	45-54	no	HS	married	Bush
+female	65+	yes	Post Coll	widowed	Bush
+female	35-44	yes	>HS	divorced	Gore
+female	25-34	no	<HS	married	Gore
+male	55-64	retired	HS	married	Bush
+female	55-64	yes	College	married	Bush
+male	65+	retired	<HS	married	Gore
+female	55-64	retired	HS	married	Bush
+female	35-44	no	>HS	married	Bush
+female	65+	no	<HS	divorced	Gore
+male	65+	retired	>HS	married	Bush
+male	35-44	yes	HS	divorced	Gore
+female	25-34	yes	College	married	Gore
+female	45-54	yes	College	married	Gore
+female	45-54	yes	Post Coll	divorced	Gore
+male	55-64	yes	HS	married	Bush
+male	35-44	yes	College	married	Gore
+female	65+	no	<HS	divorced	Bush
+female	35-44	yes	>HS	never married	Gore
+female	45-54	yes	HS	married	Bush
+male	45-54	yes	College	married	Gore
+male	35-44	yes	College	married	Bush
+male	55-64	retired	Post Coll	widowed	Gore
+male	65+	retired	HS	married	Bush
+male	25-34	yes	Post Coll	never married	Bush
+female	18-24	yes	HS	married	Gore
+female	65+	no	College	married	Bush
+male	65+	retired	Post Coll	married	Bush
+male	45-54	yes	College	married	Gore
+female	65+	retired	HS	married	Bush
+male	25-34	yes	College	never married	Bush
+male	65+	retired	HS	married	Bush
+female	18-24	yes	>HS	never married	Bush
+male	65+	retired	College	married	Bush
+male	25-34	yes	College	never married	Gore
+male	65+	yes	Post Coll	divorced	Gore
+female	18-24	yes	HS	never married	Gore
+female	65+	retired	>HS	widowed	Bush
+female	18-24	yes	HS	never married	Gore
+male	35-44	yes	>HS	married	Bush
+male	35-44	yes	>HS	married	Gore
+female	35-44	yes	>HS	divorced	Bush
+female	65+	retired	>HS	widowed	Gore
+female	25-34	yes	Post Coll	never married	Gore
+female	35-44	no	HS	married	Gore
+male	45-54	yes	College	married	Gore
+female	45-54	yes	>HS	married	Bush
+female	35-44	no	College	divorced	Gore
+male	65+	retired	>HS	married	Bush
+male	35-44	yes	>HS	never married	Bush
+male	25-34	yes	College	married	Bush
+female	55-64	yes	Post Coll	married	Gore
+female	18-24	yes	>HS	married	Bush
+female	35-44	yes	College	married	Bush
+male	25-34	no	College	never married	Gore
+male	55-64	retired	HS	divorced	Gore
+male	35-44	yes	College	NA	Gore
+female	45-54	yes	College	divorced	Gore
+female	25-34	yes	Post Coll	married	Bush
+female	35-44	yes	HS	divorced	Bush
+female	45-54	yes	College	married	Bush
+female	35-44	no	College	never married	Gore
+female	25-34	no	>HS	never married	Gore
+female	65+	retired	HS	widowed	Gore
+male	65+	retired	HS	married	Gore
+male	45-54	yes	College	married	Gore
+male	35-44	yes	>HS	married	Bush
+male	45-54	yes	College	married	Gore
+male	35-44	yes	>HS	married	Gore
+male	25-34	yes	HS	never married	Bush
+female	35-44	yes	College	married	Bush
+female	65+	retired	<HS	divorced	Gore
+male	45-54	retired	>HS	married	Bush
+male	45-54	yes	>HS	divorced	Bush
+female	35-44	yes	>HS	never married	Bush
+male	18-24	yes	>HS	never married	Gore
+female	65+	retired	>HS	married	Bush
+female	65+	retired	HS	married	Bush
+male	25-34	yes	College	never married	Gore
+female	55-64	yes	>HS	NA	Gore
+male	35-44	yes	College	married	Gore
+female	45-54	yes	College	married	Bush
+male	45-54	yes	>HS	married	Bush
+female	35-44	yes	College	married	Gore
+female	55-64	yes	HS	divorced	Gore
+female	35-44	no	>HS	married	Bush
+male	65+	retired	Post Coll	married	Gore
+female	35-44	yes	<HS	married	Bush
+female	65+	retired	College	married	Bush
+female	18-24	no	HS	never married	Gore
+female	65+	no	>HS	married	Bush
+female	45-54	yes	>HS	married	Bush
+male	35-44	yes	>HS	divorced	Bush
+male	18-24	yes	College	NA	Bush
+male	25-34	yes	HS	NA	Gore
+female	18-24	yes	HS	never married	Gore
+female	18-24	no	>HS	never married	Bush
+female	18-24	yes	>HS	never married	Gore
+male	45-54	yes	>HS	married	Bush
+female	55-64	yes	Post Coll	married	Bush
+female	45-54	yes	>HS	divorced	Gore
+female	25-34	yes	Post Coll	never married	Gore
+female	65+	retired	HS	widowed	Gore
+female	55-64	yes	HS	married	Gore
+male	25-34	yes	College	married	Gore
+male	65+	retired	<HS	married	Gore
+female	35-44	no	College	married	Bush
+male	55-64	no	HS	divorced	Gore
+female	45-54	yes	HS	married	Gore
+male	35-44	yes	>HS	married	Bush
+female	55-64	no	>HS	married	Gore
+female	18-24	yes	College	never married	Gore
+female	65+	retired	College	married	Gore
+male	65+	retired	>HS	married	Bush
+male	35-44	yes	Post Coll	married	Bush
+female	35-44	yes	>HS	married	Gore
+male	45-54	yes	>HS	married	Bush
+male	35-44	yes	Post Coll	married	Bush
+male	65+	retired	Post Coll	married	Gore
+female	45-54	yes	>HS	divorced	Gore
+male	35-44	yes	Post Coll	married	Bush
+male	55-64	yes	HS	married	Gore
+female	25-34	no	>HS	married	Gore
+male	55-64	yes	Post Coll	married	Gore
+female	55-64	yes	>HS	divorced	Bush
+female	18-24	yes	>HS	never married	Gore
+male	55-64	retired	HS	NA	Gore
+female	45-54	no	HS	divorced	Gore
+female	18-24	no	HS	never married	Gore
+female	35-44	yes	Post Coll	married	Bush
+male	55-64	no	HS	never married	Bush
+female	25-34	yes	College	never married	Gore
+female	35-44	no	HS	married	Gore
+female	55-64	no	<HS	married	Bush
+female	45-54	yes	Post Coll	widowed	Gore
+male	55-64	yes	HS	married	Bush
+female	55-64	retired	Post Coll	never married	Bush
+female	45-54	yes	HS	married	Gore
+female	45-54	yes	>HS	married	Bush
+female	35-44	yes	College	NA	Gore
+male	35-44	yes	College	married	Bush
+female	35-44	yes	>HS	married	Bush
+female	65+	retired	HS	widowed	Gore
+female	55-64	no	<HS	divorced	Gore
+female	65+	retired	>HS	married	Bush
+female	18-24	no	College	never married	Gore
+male	55-64	yes	Post Coll	married	Bush
+male	45-54	yes	College	divorced	Bush
+female	65+	retired	HS	widowed	Bush
+male	65+	retired	HS	widowed	Bush
+male	45-54	yes	College	married	Gore
+male	25-34	yes	College	NA	Gore
+male	35-44	yes	HS	married	Bush
+female	18-24	no	>HS	never married	Gore
+male	25-34	no	College	never married	Gore
+male	45-54	yes	College	married	Bush
+male	35-44	yes	HS	NA	Gore
+male	45-54	yes	College	married	Gore
+male	25-34	yes	>HS	married	Bush
+male	25-34	yes	>HS	married	Bush
+female	65+	no	HS	widowed	Bush
+male	45-54	yes	HS	married	Bush
+female	55-64	retired	>HS	divorced	Bush
+male	25-34	yes	>HS	married	Gore
+female	25-34	yes	Post Coll	married	Gore
+male	55-64	retired	Post Coll	never married	Bush
+male	35-44	yes	Post Coll	married	Bush
+male	65+	retired	HS	married	Bush
+male	65+	retired	>HS	divorced	Bush
+female	18-24	no	College	never married	Gore
+female	35-44	no	College	married	Bush
+female	55-64	yes	College	divorced	Gore
+male	18-24	yes	College	never married	Bush
+male	35-44	yes	Post Coll	never married	Gore
+male	35-44	yes	>HS	married	Gore
+female	25-34	yes	>HS	divorced	Gore
+female	25-34	no	>HS	married	Gore
+male	35-44	yes	College	divorced	Bush
+male	55-64	retired	College	NA	Bush
+female	35-44	yes	>HS	married	Gore
+female	45-54	yes	Post Coll	married	Bush
+female	18-24	no	>HS	never married	Bush
+female	25-34	no	College	married	Bush
+female	45-54	yes	>HS	divorced	Bush
+male	25-34	yes	>HS	married	Bush
+male	65+	retired	HS	married	Bush
+female	65+	yes	>HS	divorced	Bush
+female	65+	retired	HS	divorced	Gore
+female	45-54	yes	Post Coll	married	Gore
+female	55-64	no	>HS	married	Gore
+female	35-44	yes	College	married	Gore
+male	45-54	retired	>HS	married	Bush
+male	65+	retired	>HS	married	Gore
+female	45-54	yes	>HS	divorced	Gore
+male	35-44	yes	Post Coll	never married	Bush
+female	45-54	retired	HS	widowed	Gore
+female	65+	retired	<HS	married	Bush
+male	25-34	yes	College	NA	Gore
+male	55-64	yes	College	married	Bush
+male	25-34	yes	>HS	divorced	Bush
+male	35-44	yes	>HS	never married	Bush
+female	65+	retired	College	married	Gore
+male	35-44	yes	>HS	never married	Gore
+male	65+	retired	College	married	Bush
+female	55-64	yes	College	divorced	Gore
+male	35-44	yes	HS	never married	Bush
+male	55-64	retired	HS	NA	Gore
+female	45-54	yes	College	never married	Gore
+male	25-34	yes	Post Coll	married	Bush
+female	65+	yes	>HS	divorced	Bush
+male	55-64	yes	HS	married	Bush
+female	35-44	yes	Post Coll	divorced	Gore
+female	35-44	yes	>HS	married	Bush
+male	35-44	yes	HS	never married	Bush
+female	45-54	yes	Post Coll	married	Gore
+female	45-54	yes	Post Coll	divorced	Gore
+female	35-44	yes	>HS	NA	Gore
+female	25-34	yes	College	married	Gore
+male	45-54	yes	HS	divorced	Gore
+female	18-24	yes	HS	never married	Gore
+female	55-64	retired	>HS	married	Gore
+male	35-44	yes	College	never married	Gore
+female	25-34	yes	HS	never married	Gore
+male	25-34	yes	College	never married	Gore
+female	35-44	yes	College	divorced	Gore
+female	65+	retired	<HS	widowed	Gore
+female	55-64	no	>HS	never married	Bush
+female	45-54	yes	College	married	Gore
+female	25-34	no	College	married	Bush
+female	25-34	yes	Post Coll	married	Bush
+male	65+	retired	<HS	widowed	Bush
+male	35-44	yes	Post Coll	married	Gore
+female	25-34	yes	Post Coll	married	Bush
+female	45-54	yes	>HS	married	Gore
+female	35-44	yes	>HS	married	Gore
+male	45-54	yes	College	widowed	Gore
+female	65+	retired	<HS	married	Gore
+male	45-54	yes	College	married	Bush
+male	35-44	yes	HS	married	Gore
+female	55-64	yes	>HS	NA	Gore
+female	25-34	yes	College	married	Bush
+female	65+	retired	>HS	widowed	Bush
+female	65+	retired	>HS	married	Bush
+female	65+	retired	<HS	married	Bush
+female	45-54	no	HS	divorced	Gore
+male	45-54	yes	College	married	Bush
+male	45-54	yes	>HS	never married	Bush
+male	65+	retired	>HS	divorced	Gore
+male	65+	retired	HS	married	Gore
+male	35-44	yes	HS	divorced	Bush
+female	55-64	no	HS	married	Gore
+female	45-54	yes	Post Coll	married	Bush
+male	45-54	yes	College	married	Gore
+male	35-44	yes	HS	never married	Bush
+female	65+	retired	HS	married	Gore
+female	25-34	yes	College	divorced	Gore
+female	45-54	no	HS	married	Bush
+male	35-44	yes	College	married	Bush
+female	25-34	yes	College	never married	Gore
+male	55-64	yes	Post Coll	married	Bush
+female	65+	retired	HS	married	Gore
+male	45-54	yes	Post Coll	married	Bush
+male	35-44	yes	College	divorced	Gore
+male	35-44	yes	HS	married	Gore
+female	35-44	yes	>HS	never married	Bush
+female	35-44	yes	College	married	Bush
+female	65+	no	HS	widowed	Bush
+male	25-34	yes	College	never married	Gore
+female	65+	retired	HS	married	Gore
+female	65+	no	College	never married	Gore
+male	25-34	yes	College	married	Bush
+female	55-64	no	>HS	married	Gore
+male	35-44	no	>HS	never married	Gore
+male	55-64	yes	Post Coll	married	Gore
+male	35-44	yes	>HS	NA	Gore
+male	65+	retired	<HS	married	Bush
+male	65+	retired	>HS	married	Gore
+male	65+	retired	>HS	widowed	Gore
+female	55-64	yes	Post Coll	never married	Gore
+male	45-54	yes	Post Coll	married	Gore
+male	65+	yes	HS	married	Gore
+male	25-34	yes	College	married	Bush
+female	35-44	no	>HS	married	Bush
+female	55-64	no	HS	widowed	Bush
+male	18-24	yes	>HS	married	Gore
+male	45-54	no	>HS	never married	Gore
+male	45-54	yes	>HS	married	Gore
+male	55-64	yes	>HS	married	Gore
+male	35-44	yes	College	married	Gore
+male	55-64	yes	>HS	never married	Bush
+female	45-54	yes	HS	married	Bush
+female	35-44	yes	>HS	married	Gore
+female	45-54	yes	Post Coll	married	Bush
+female	65+	retired	Post Coll	divorced	Bush
+female	45-54	yes	Post Coll	married	Bush
+male	45-54	yes	College	never married	Bush
+female	65+	retired	College	married	Bush
+male	65+	retired	College	married	Bush
+female	65+	retired	College	married	Bush
+female	65+	retired	HS	divorced	Gore
+female	65+	retired	<HS	widowed	Bush
+male	55-64	yes	HS	married	Gore
+female	35-44	yes	>HS	divorced	Bush
+male	25-34	yes	>HS	married	Bush
+female	35-44	yes	>HS	married	Bush
+female	25-34	yes	HS	NA	Bush
+male	35-44	yes	College	never married	Gore
+female	55-64	retired	HS	widowed	Gore
+female	35-44	yes	Post Coll	married	Gore
+female	35-44	yes	College	divorced	Gore
+male	25-34	yes	NA	never married	Bush
+female	45-54	yes	>HS	divorced	Bush
+male	45-54	yes	>HS	divorced	Gore
+female	45-54	yes	>HS	married	Bush
+male	45-54	yes	>HS	divorced	Gore
+female	25-34	yes	>HS	divorced	Gore
+male	45-54	yes	College	married	Bush
+male	35-44	yes	HS	never married	Bush
+female	65+	no	>HS	widowed	Gore
+female	65+	yes	HS	married	Bush
+male	65+	retired	Post Coll	widowed	Gore
+female	45-54	yes	Post Coll	married	Bush
+male	65+	retired	College	married	Bush
+male	35-44	yes	>HS	married	Bush
+male	45-54	yes	College	never married	Bush
+female	18-24	yes	>HS	never married	Bush
+male	45-54	no	College	divorced	Gore
+male	25-34	yes	College	never married	Gore
+female	25-34	no	>HS	never married	Gore
+female	18-24	yes	>HS	never married	Gore
+male	55-64	yes	College	married	Bush
+male	35-44	yes	HS	married	Gore
+female	65+	no	>HS	married	Gore
+female	65+	no	>HS	widowed	Bush
+female	35-44	yes	>HS	NA	Gore
+male	35-44	yes	HS	never married	Bush
+male	55-64	yes	>HS	married	Bush
+female	45-54	yes	HS	married	Gore
+female	55-64	yes	HS	married	Gore
+female	35-44	yes	College	divorced	Gore
+female	18-24	yes	>HS	never married	Bush
+male	35-44	yes	HS	never married	Gore
+male	35-44	no	HS	never married	Bush
+male	55-64	yes	HS	married	Bush
+male	45-54	yes	Post Coll	married	Gore
+female	65+	retired	>HS	married	Bush
+male	55-64	no	HS	married	Gore
+male	45-54	yes	College	divorced	Gore
+male	18-24	yes	HS	never married	Bush
+female	45-54	yes	>HS	married	Bush
+female	25-34	no	HS	NA	Gore
+female	25-34	yes	>HS	married	Bush
+male	65+	retired	College	married	Bush
+female	45-54	yes	HS	married	Gore
+male	35-44	yes	HS	never married	Gore
+male	45-54	yes	College	married	Bush
+male	45-54	yes	College	married	Gore
+male	55-64	retired	Post Coll	married	Gore
+male	35-44	yes	College	divorced	Gore
+female	45-54	yes	College	divorced	Gore
+male	55-64	retired	HS	divorced	Gore
+female	25-34	no	College	married	Bush
+female	35-44	yes	Post Coll	married	Bush
+male	45-54	yes	Post Coll	married	Bush
+female	65+	retired	>HS	widowed	Gore
+female	35-44	yes	College	divorced	Gore
+female	45-54	yes	HS	married	Bush
+female	35-44	yes	>HS	divorced	Gore
+female	18-24	yes	HS	married	Bush
+female	18-24	yes	College	never married	Gore
+female	55-64	yes	College	married	Bush
+female	55-64	retired	Post Coll	never married	Gore
+male	25-34	yes	>HS	divorced	Bush
+female	45-54	yes	College	married	Gore
+female	35-44	yes	>HS	married	Bush
+female	35-44	yes	HS	married	Bush
+male	65+	yes	HS	married	Gore
+male	35-44	yes	<HS	never married	Bush
+female	65+	retired	HS	married	Bush
+female	35-44	yes	College	divorced	Gore
+female	35-44	yes	HS	married	Gore
+female	35-44	yes	>HS	NA	Gore
+female	65+	no	HS	widowed	Bush
+male	35-44	yes	>HS	divorced	Gore
+male	55-64	no	HS	married	Gore
+female	55-64	yes	Post Coll	never married	Gore
+male	18-24	no	College	never married	Gore
+male	45-54	yes	>HS	married	Bush
+male	25-34	yes	HS	never married	Gore
+male	18-24	no	HS	never married	Gore
+male	25-34	yes	HS	married	Bush
+male	45-54	yes	Post Coll	married	Gore
+male	65+	retired	<HS	widowed	Bush
+female	35-44	yes	College	married	Bush
+male	35-44	yes	>HS	married	Gore
+female	45-54	yes	Post Coll	married	Bush
+male	18-24	yes	>HS	married	Gore
+female	55-64	no	>HS	married	Gore
+male	45-54	yes	Post Coll	married	Gore
+male	45-54	yes	>HS	married	Gore
+male	25-34	yes	HS	married	Gore
+female	35-44	yes	>HS	married	Bush
+male	65+	retired	HS	widowed	Gore
+male	45-54	retired	HS	married	Gore
+female	65+	yes	HS	married	Bush
+male	35-44	yes	College	married	Bush
+female	65+	retired	HS	married	Bush
+male	65+	retired	College	married	Bush
+male	45-54	yes	HS	married	Gore
+female	65+	yes	<HS	widowed	Gore
+female	65+	retired	HS	widowed	Gore
+female	45-54	yes	>HS	married	Gore
+female	35-44	yes	College	married	Bush
+female	45-54	yes	College	married	Bush
+female	65+	retired	>HS	never married	Gore
+female	45-54	yes	College	married	Gore
+male	55-64	retired	HS	married	Gore
+female	45-54	yes	Post Coll	widowed	Gore
+male	55-64	yes	Post Coll	married	Bush
+male	65+	retired	<HS	married	Gore
+female	25-34	yes	>HS	never married	Gore
+female	55-64	no	<HS	married	Gore
+female	35-44	yes	>HS	married	Gore
+female	35-44	yes	HS	married	Gore
+female	25-34	yes	>HS	never married	Gore
+female	65+	no	>HS	married	Bush
+female	35-44	yes	>HS	never married	Gore
+female	65+	retired	>HS	never married	Gore
+male	65+	retired	College	married	Bush
+female	45-54	yes	>HS	married	Bush
+male	35-44	retired	>HS	never married	Bush
+male	65+	yes	<HS	widowed	Gore
+female	45-54	yes	College	married	Bush
+male	45-54	yes	College	never married	Gore
+female	18-24	no	<HS	never married	Gore
+male	45-54	retired	>HS	married	Gore
+male	65+	retired	>HS	married	Bush
+male	65+	retired	College	married	Bush
+male	65+	retired	College	widowed	Bush
+female	18-24	yes	>HS	never married	Bush
+female	35-44	yes	>HS	married	Gore
+female	35-44	no	College	married	Bush
